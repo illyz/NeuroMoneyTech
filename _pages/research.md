@@ -6,12 +6,12 @@ permalink: /research/
 NeuroMoneyTech explores the intersection of neurodiversity, money, and technology.
 
 
-### Navigating Financial Lives
-
-Exploring how autistic adults adapt financial technologies, tools, and strategies.
-
-
-### Designing for Autistic Joy in Everyday Money Practices
-
-Exploring how 'Autistic joy' could inspire new ways of managing money and design better tools and systems.
-
+<div class="resource-grid">
+{% for project in site.data.research.projects %}
+  <div class="resource-card">
+    <h3>{{ project.title }}</h3>
+    <p>{{ project.excerpt }}</p>
+    <a class="resource-button" href="{{ project.url }}">{{ project.btn_label }}</a>
+  </div>
+{% endfor %}
+</div>
