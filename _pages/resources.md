@@ -21,4 +21,4 @@ The resources listed here are not endorsements. They have been selected because 
 
 ## Suggest a Resource
 
-If you know of a resource that would be useful to include on this page, please get in touch helena.lyhme@citystgeorges.ac.uk.
+If you know of a resource that would be useful to include on this page, please get in touch [helena.lyhme@citystgeorges.ac.uk](mailto:helena.lyhme@citystgeorges.ac.uk).
