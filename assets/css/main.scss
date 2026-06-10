@@ -1,36 +1,26 @@
 ---
+# Only the main Sass file needs front matter
 ---
+
+@charset "utf-8";
 
 @import "minimal-mistakes";
 
+/* Site title */
 .site-title {
-    color: #5B3A9E;
+  color: #5B3A9E;
 }
 
-.site-subtitle {
-    color: #5B3A9E;
+/* Navigation */
+.greedy-nav a {
+  color: #5B3A9E;
 }
 
+/* Footer */
 .page__footer {
-    background-color: #222222;
+  background-color: #222222;
 }
 
 .page__footer a {
-    color: #C9B6FF;
-}
-
-.greedy-nav {
-    background: #ffffff;
-}
-
-.greedy-nav a {
-    color: #5B3A9E;
-}
-
-.btn--light-outline {
-    border-color: #C9B6FF;
-}
-
-.btn--light-outline:hover {
-    background-color: #5B3A9E;
+  color: #C9B6FF;
 }
