@@ -1,10 +1,10 @@
 projects:
   - title: "Navigating Financial Lives"
     excerpt: "Exploring how autistic adults adapt financial technologies, tools, and strategies."
-    url: "/research/navigating-financial-lives/"
+    url: "/NeuroMoneyTech/research/navigating-financial-lives/"
     btn_label: "Read more"
 
   - title: "Designing for Autistic Joy in Everyday Money Practices"
     excerpt: "Exploring how autistic joy could inspire new ways of managing money and designing better tools and systems."
-    url: "/research/designing-for-autistic-joy/"
+    url: "/NeuroMoneyTech/research/autistic-joy/"
     btn_label: "Read more"
