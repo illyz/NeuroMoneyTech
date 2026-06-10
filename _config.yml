@@ -11,8 +11,7 @@ remote_theme: "mmistakes/minimal-mistakes@4.28.0"
 plugins:
   - jekyll-include-cache
 
-head_scripts:
-  - /assets/css/main.css
+minimal_mistakes_skin: "air"
 
 locale: "en-GB"
 
