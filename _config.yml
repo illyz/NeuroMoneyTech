@@ -32,6 +32,14 @@ author:
 
 footer:
   links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:helena.lyhme@citystgeorges.ac.uk"
+
+    - label: "ORCID"
+      icon: "fas fa-university"
+      url: "https://orcid.org/0009-0003-7615-5025"   
+  
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/illyz"
@@ -40,13 +48,7 @@ footer:
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/helena-lyhme/"
 
-    - label: "Email"
-      icon: "fas fa-envelope"
-      url: "mailto:helena.lyhme@citystgeorges.ac.uk"
 
-    - label: "ORCID"
-      icon: "fas fa-university"
-      url: "https://orcid.org/0009-0003-7615-5025"   
 
 atom_feed:
   hide: true
