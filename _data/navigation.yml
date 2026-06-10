@@ -1,7 +1,9 @@
 main:
   - title: "Home"
-    url: /NeuroMoneyTech/
+    url: /
+
   - title: "Research"
-    url: /NeuroMoneyTech/research/
+    url: /research/
+
   - title: "About"
-    url: /NeuroMoneyTech/about/
+    url: /about/
