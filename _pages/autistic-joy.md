@@ -1,6 +1,6 @@
 ---
 title: "Designing for Autistic Joy"
-permalink: /NeuroMoneyTech/research/autistic-joy/
+permalink: /research/autistic-joy/
 ---
 
 coming soon
