@@ -43,3 +43,7 @@ footer:
     - label: "Email"
       icon: "fas fa-envelope"
       url: "mailto:helena.lyhme@citystgeorges.ac.uk"
+
+
+atom_feed:
+  hide: true
