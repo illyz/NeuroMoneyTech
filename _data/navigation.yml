@@ -7,6 +7,12 @@ main:
 
   - title: "Research"
     url: /research/
+      children:
+      - title: "Navigating Financial Lives"
+        url: /research/navigating-financial-lives/
+      - title: "Designing for Autistic Joy in Everyday Money Practices"
+        url: /research/designing-for-autistic-joy/
+
 
   - title: "Resources"
     url: /resources/
