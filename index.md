@@ -1,21 +1,18 @@
-# NeuroMoneyTech
+---
+title: "NeuroMoneyTech"
+layout: splash
+permalink: /
+header:
+  overlay_filter: 0.5
+  overlay_image: /assets/images/header.jpg
+  actions:
+    - label: "Explore the research"
+      url: "/NeuroMoneyTech/research/"
+excerpt: "Research insights at the intersection of neurodiversity, money and technology."
+---
 
-Exploring the intersection of neurodiversity, money, and technology.
+## Welcome
 
-## About
+**NeuroMoneyTech** explores how neurodivergent people navigate financial lives, adapt financial technologies, and imagine more inclusive financial futures.
 
-NeuroMoneyTech shares research, resources, and design insights about how neurodivergent people navigate financial technologies and financial lives.
-
-## Research
-
-### Navigating Financial Lives
-
-How autistic adults adapt financial technologies, tools and strategies.
-
-## Resources
-
-Coming soon.
-
-## Contact
-
-Helena Lyhme
+This site shares research summaries, key findings, design reflections, and resources from ongoing HCI research.
