@@ -15,5 +15,4 @@ excerpt: "How would financial technologies be designed from Autistic perspective
 
 This page shares insights from [Helena Lyhme](https://www.citystgeorges.ac.uk/about/people/research-students/helena-lyhme)'s PhD Research at the intersection of autism, moneywork and technology.
 
-This site shares research summaries, key findings, design reflections, and resources.
 
