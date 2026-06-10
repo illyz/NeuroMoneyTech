@@ -4,7 +4,7 @@ layout: splash
 permalink: /
 header:
   overlay_filter: 0.5
-  overlay_image: /assets/images/header.jpg
+  overlay_image: /assets/images/header.jpeg
   actions:
     - label: "Explore the research"
       url: "/NeuroMoneyTech/research/"
