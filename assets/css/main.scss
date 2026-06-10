@@ -1,26 +1,95 @@
----
-# Only the main Sass file needs front matter
----
+/* ----------------------------------
+   NeuroMoneyTech colour palette
+   ---------------------------------- */
 
-@charset "utf-8";
-
-@import "minimal-mistakes";
-
-/* Site title */
-.site-title {
-  color: #5B3A9E;
+:root {
+  --nmt-primary: #6B5A89;
+  --nmt-secondary: #A17B8D;
+  --nmt-background: #F5F3F6;
+  --nmt-footer: #3B3741;
+  --nmt-text: #333333;
 }
 
-/* Navigation */
-.greedy-nav a {
-  color: #5B3A9E;
+/* Page background */
+body {
+  background-color: var(--nmt-background);
+  color: var(--nmt-text);
+}
+
+/* Header / navigation */
+.masthead {
+  background-color: var(--nmt-background);
+  border-bottom: 1px solid rgba(107, 90, 137, 0.15);
+}
+
+.masthead__inner-wrap .site-title {
+  color: var(--nmt-primary);
+}
+
+.site-subtitle {
+  color: var(--nmt-primary);
+}
+
+.greedy-nav {
+  background-color: var(--nmt-background);
+}
+
+.greedy-nav a,
+.greedy-nav .visible-links a {
+  color: var(--nmt-primary);
+}
+
+.greedy-nav a:hover {
+  color: var(--nmt-secondary);
+}
+
+/* Main content */
+.page__content {
+  color: var(--nmt-text);
+}
+
+/* Section headings */
+.page__content h1,
+.page__content h2,
+.page__content h3,
+.page__content h4 {
+  color: var(--nmt-primary);
+}
+
+/* Hero button */
+.btn--light-outline {
+  border-color: rgba(255, 255, 255, 0.85);
+}
+
+.btn--light-outline:hover {
+  background-color: var(--nmt-primary);
+  border-color: var(--nmt-primary);
+}
+
+/* Links */
+a {
+  color: var(--nmt-primary);
+}
+
+a:hover {
+  color: var(--nmt-secondary);
 }
 
 /* Footer */
 .page__footer {
-  background-color: #222222;
+  background-color: var(--nmt-footer);
+}
+
+.page__footer,
+.page__footer p,
+.page__footer li {
+  color: #d8d3df;
 }
 
 .page__footer a {
-  color: #C9B6FF;
+  color: #d8c7e9;
+}
+
+.page__footer a:hover {
+  color: white;
 }
