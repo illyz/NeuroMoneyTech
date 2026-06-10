@@ -3,15 +3,12 @@ title: "Research"
 permalink: /research/
 ---
 
-## Navigating Financial Lives
+NeuroMoneyTech explores the intersection of neurodiversity, money, and technology.
 
-How autistic adults adapt financial technologies, tools and strategies.
+## Current Projects
 
-This project explores how autistic adults manage money, experience financial technologies, and create personal systems to make financial life more manageable.
+### Navigating Financial Lives
 
-## Future topics
+Exploring how autistic adults adapt financial technologies, tools, and strategies.
 
-- Financial uncertainty
-- Autistic joy and moneywork
-- Inclusive financial technology design
-- Collaborative Visual Thinking
+
