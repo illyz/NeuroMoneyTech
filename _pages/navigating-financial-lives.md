@@ -17,6 +17,6 @@ Financial technologies are often designed with assumptions about how people shou
 
 ## Citation
 
-Helena Lyhme, Belén Barros Pena, and Stephanie Wilson. 2026. Navigating Financial Lives: How Autistic Adults Adapt Financial Technologies, Tools and Strategies. In Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI '26). Association for Computing Machinery, New York, NY, USA, Article 157, 1–13. [https://doi.org/10.1145/3772318.3791131]
+Helena Lyhme, Belén Barros Pena, and Stephanie Wilson. 2026. Navigating Financial Lives: How Autistic Adults Adapt Financial Technologies, Tools and Strategies. In Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI '26). Association for Computing Machinery, New York, NY, USA, Article 157, 1–13. [https://doi.org/10.1145/3772318.3791131](https://doi.org/10.1145/3772318.3791131)
 
 ---
