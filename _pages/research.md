@@ -11,7 +11,7 @@ NeuroMoneyTech explores the intersection of neurodiversity, money, and technolog
   <div class="resource-card">
     <h3>{{ project.title }}</h3>
     <p>{{ project.excerpt }}</p>
-    <a class="resource-button" href="{{ project.url }}">{{ project.btn_label }}</a>
+    <a class="resource-button" href="{{ project.url | relative_url }}">{{ project.btn_label }}</a>
   </div>
 {% endfor %}
 </div>
