@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/header.jpeg
   actions:
     - label: "Explore the research"
-      url: "/NeuroMoneyTech/research/"
+      url: "/research/"
 excerpt: "Research insights at the intersection of neurodiversity, money and technology."
 ---
 
