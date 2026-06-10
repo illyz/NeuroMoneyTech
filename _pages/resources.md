@@ -21,6 +21,4 @@ The resources listed here are not endorsements. They have been selected because 
 
 ## Suggest a Resource
 
-If you know of a resource that would be useful to include on this page, please get in touch.
-
-We aim to build a growing collection of resources that support more inclusive financial futures.
+If you know of a resource that would be useful to include on this page, please get in touch helena.lyhme@citystgeorges.ac.uk.
