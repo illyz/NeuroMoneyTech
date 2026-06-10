@@ -44,6 +44,13 @@ footer:
       icon: "fas fa-envelope"
       url: "mailto:helena.lyhme@citystgeorges.ac.uk"
 
+    - label: "Researcher Profile"
+      icon: "fas fa-university"
+      url: "https://www.citystgeorges.ac.uk/about/people/research-students/helena-lyhme"
+
+    - label: "ORCID"
+      icon: "ai ai-orcid"
+      url: "https://orcid.org/0009-0003-7615-5025"   
 
 atom_feed:
   hide: true
