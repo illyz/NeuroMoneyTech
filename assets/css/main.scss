@@ -104,3 +104,37 @@ a:hover {
 .page__footer .social-icons .fas {
   color: #ffffff;
 }
+
+.resource-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1.25rem;
+  margin: 2rem 0;
+}
+
+.resource-card {
+  background: #ffffff;
+  border: 1px solid rgba(107, 90, 137, 0.18);
+  border-radius: 14px;
+  padding: 1.25rem;
+  box-shadow: 0 4px 12px rgba(59, 55, 65, 0.08);
+}
+
+.resource-card h3 {
+  margin-top: 0;
+  color: var(--nmt-primary);
+}
+
+.resource-button {
+  display: inline-block;
+  margin-top: 0.75rem;
+  padding: 0.55rem 0.9rem;
+  border-radius: 8px;
+  background-color: var(--nmt-primary);
+  color: #ffffff !important;
+  text-decoration: none;
+}
+
+.resource-button:hover {
+  background-color: var(--nmt-secondary);
+}
