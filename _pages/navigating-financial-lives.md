@@ -1,6 +1,7 @@
 ---
 title: "Navigating Financial Lives"
-permalink: /research/navigating-financial-lives/
+permalink: /NeuroMoneyTech/research/navigating-financial-lives/
+
 ---
 
 # Navigating Financial Lives
