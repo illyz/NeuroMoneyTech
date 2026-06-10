@@ -1,5 +1,5 @@
 ---
-title: "NeuroMoneyTech"
+title: "Autism - Moneywork - Technology"
 layout: splash
 permalink: /
 header:
@@ -8,11 +8,12 @@ header:
   actions:
     - label: "Explore the research"
       url: "/research/"
-excerpt: "Research insights at the intersection of neurodiversity, money and technology."
+excerpt: "How would financial technologies be designed from Autistic perspectives?"
 ---
 
 ## Welcome
 
-**NeuroMoneyTech** explores how neurodivergent people navigate financial lives, adapt financial technologies, and imagine more inclusive financial futures.
+This page shares insights from [Helena Lyhme](https://www.citystgeorges.ac.uk/about/people/research-students/helena-lyhme)'s PhD Research at the intersection of autism, moneywork and technology.
 
-This site shares research summaries, key findings, design reflections, and resources from ongoing HCI research.
+This site shares research summaries, key findings, design reflections, and resources.
+
