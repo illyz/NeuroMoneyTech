@@ -3,8 +3,6 @@ title: "Navigating Financial Lives"
 permalink: /research/navigating-financial-lives/
 ---
 
-← Back to Research
-
 # Navigating Financial Lives
 
 ## Overview
