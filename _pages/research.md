@@ -3,8 +3,6 @@ title: "Research"
 permalink: /research/
 ---
 
-# Research
-
 ## Navigating Financial Lives
 
 How autistic adults adapt financial technologies, tools and strategies.
