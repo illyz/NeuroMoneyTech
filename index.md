@@ -3,7 +3,7 @@ title: "NeuroMoneyTech"
 layout: splash
 permalink: /
 header:
-  overlay_filter: 0.5
+  overlay_filter: 0.25
   overlay_image: /assets/images/header.jpeg
   actions:
     - label: "Explore the research"
