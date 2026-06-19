@@ -20,11 +20,32 @@ body {
   color: var(--nmt-text);
 }
 
+/* Make the main content column wider across the site */
+@media (min-width: 80em) {
+  .page {
+    width: 100% !important;
+    padding-right: 0 !important;
+  }
+
+  .page__inner-wrap {
+    max-width: 1200px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+
+  .page__content {
+    max-width: 1050px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+}
+  
 /* Header / navigation */
 .masthead {
   background-color: var(--nmt-background);
   border-bottom: 1px solid rgba(107, 90, 137, 0.15);
 }
+
 
 .masthead__inner-wrap .site-title {
   color: var(--nmt-primary);
@@ -137,4 +158,102 @@ a:hover {
 
 .resource-button:hover {
   background-color: var(--nmt-secondary);
+}
+
+
+/* ==================================
+   Publications styling
+   ================================== */
+
+/* Publication titles */
+.page__content h3 {
+  margin-top: 1.25rem;
+  margin-bottom: 0.25rem;
+  padding-top: 0.75rem;
+  border-top: 1px solid rgba(107, 90, 137, 0.18);
+}
+
+.page__content h3:first-of-type {
+  margin-top: 1rem;
+  padding-top: 0;
+  border-top: none;
+}
+
+/* Publication metadata / tags */
+.publication-meta {
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: rgba(107, 90, 137, 0.75);
+  margin-bottom: 0.5rem;
+  font-weight: 600;
+}
+
+/* Alternative pill-style tags */
+.tag {
+  display: inline-block;
+  padding: 0.25rem 0.7rem;
+  margin-right: 0.4rem;
+  margin-bottom: 0.5rem;
+  border-radius: 999px;
+  background: rgba(107, 90, 137, 0.12);
+  color: var(--nmt-primary);
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+
+/* Citation text */
+.publication-citation {
+  margin-top: 0;
+  margin-bottom: 0.4rem;
+  line-height: 1.65;
+}
+
+/* Abstract spoiler */
+details {
+  margin: 0.5rem 0;
+  padding: 0;
+  border: none;
+  background: transparent;
+}
+
+summary {
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--nmt-primary);
+}
+
+details[open] {
+  margin-bottom: 0.75rem;
+}
+
+/* Abstract text inside expandable summaries */
+.abstract-text,
+details p {
+  margin-top: 0.35rem;
+  margin-left: 1.25rem;
+  margin-bottom: 0.5rem;
+  max-width: 900px;
+  font-size: 0.9rem;
+  font-style: italic;
+  line-height: 1.6;
+  color: rgba(51, 51, 51, 0.85);
+}
+
+/* Publication button */
+.publication-button {
+  margin-top: 0.75rem;
+  margin-bottom: 0.5rem;
+}
+
+/* Slightly soften default buttons */
+.btn--info {
+  border-radius: 8px;
+}
+
+/* Optional divider between publications */
+.publication-divider {
+  margin: 0.75rem 0;
+  border: 0;
+  border-top: 1px solid rgba(107, 90, 137, 0.15);
 }
