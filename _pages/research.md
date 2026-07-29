@@ -32,15 +32,12 @@ classes: wide
     <span class="research-section-label">PhD overview</span>
     <h2 id="phd-overview-title">Why this research matters</h2>
 
-    <p>Digital technologies now shape almost every part of managing money. They can make financial tasks easier, but they can also introduce new barriers and unintended consequences.</p>
+    <p>Digital technologies nowadays shape almost every part of managing money. They can make financial tasks easier, but they can also introduce new barriers and unintended consequences. These barriers can deepen financial exclusion, particularly for people who already experience financial difficulty, inaccessible services, or other forms of inequality.</p>
 
-    <p>These barriers can deepen financial exclusion, particularly for people who already experience financial difficulty, inaccessible services, or other forms of inequality.</p>
-
-    <p>This research uses participatory design methods to work with autistic adults rather than treating them only as users of technology.</p>
-
-    <p>Together, we critically examine existing financial tools and services, identify where they do not work well, and explore how they could be designed differently.</p>
+    <p> This research is working with autistic adults to explore new approaches to money management, treating them as designers of their own solutions, no only as users of technology. Together, we critically examine existing financial tools and services, identify where they do not work well, and explore how they could be designed differently.</p>
 
     <p>Autistic adults bring diverse lived experiences, creative practices, and ways of thinking about technology. These perspectives can reveal overlooked problems and open up new possibilities for the future of financial design.</p>
+
   </section>
 
   <section class="research-framework" id="research-questions" aria-labelledby="research-framework-title">
@@ -83,29 +80,29 @@ classes: wide
     <span class="research-section-label">Research methods</span>
     <h2 id="research-method-title">How the research is carried out</h2>
 
-    <h3>Participatory design</h3>
-    <p>Participatory design involves people who are affected by a technology in examining and shaping its design. This PhD uses participatory approaches to bring autistic adults' lived experiences, priorities, and ideas into the research and design process.</p>
+    <p>The research is following a particpatory design ethos, involving people not just as informants, but as active participants shaping the design and direction of the research. This also means involving <i>experts by experience</i> throughout the process: in shaping research questions, in the design of the methods, and the interpretation of findings.</p>
 
+    <p>The methods used have been designed or adapted for the specific needs of participants and the goals of the study.</p>
+
+    
     <h3>Collaborative Visual Thinking</h3>
-    <p class="research-study__lead">A visual interview method in which the participant and researcher create a shared map during their conversation.</p>
+    <p class="research-study__lead">An interview method in which the participant and researcher create a shared visual artefact during their conversation.</p>
 
     <p>The method can support different communication preferences and help participants explore complex topics, relationships, and experiences. It was used in the first study to explore participants' financial lives, the tools they used, and the people involved.</p>
-
-    <p class="page-note">Example visual artefacts:</p>
 
     <div class="cvt-example-grid cvt-example-grid--preview" role="group" aria-label="Two examples of Collaborative Visual Thinking artefacts">
       <figure class="cvt-example">
         <a href="{{ '/assets/images/research/cvt-example-spreadsheet.png' | relative_url }}" aria-label="Open the spreadsheet-style example at full size">
           <img src="{{ '/assets/images/research/cvt-example-spreadsheet.png' | relative_url }}" alt="Abstract spreadsheet-style visual artefact with pastel-coded rows, columns, symbols, and short text lines." loading="lazy" decoding="async">
         </a>
-        <figcaption>Spreadsheet</figcaption>
+        <figcaption>Visual Artefact Examples</figcaption>
       </figure>
 
       <figure class="cvt-example">
         <a href="{{ '/assets/images/research/cvt-example-sticky-notes.png' | relative_url }}" aria-label="Open the connected sticky-notes example at full size">
           <img src="{{ '/assets/images/research/cvt-example-sticky-notes.png' | relative_url }}" alt="Abstract visual artefact made from pastel sticky notes connected by directional arrows." loading="lazy" decoding="async">
         </a>
-        <figcaption>Connected sticky notes</figcaption>
+       
       </figure>
     </div>
 
@@ -124,9 +121,9 @@ classes: wide
     </header>
 
     <div class="research-at-a-glance" aria-label="Study at a glance">
-      <div><strong>20</strong><span>autistic adults</span></div>
-      <div><strong>UK</strong><span>participant study</span></div>
-      <div><strong>Visual</strong><span>mapping interviews</span></div>
+      <div><strong>20</strong><span>Autistic adults</span></div>
+      <div><strong>Location</strong><span>Online / UK based </span></div>
+      <div><strong>Interviews</strong><span>Collaborative Visual Thinking</span></div>
     </div>
 
     <p>Interviews with 20 autistic adults highlighted both challenges and strengths associated with money management. Participants described creating highly individual systems involving bank accounts, spreadsheets, reminders, automation, routines, and other forms of support.</p>
