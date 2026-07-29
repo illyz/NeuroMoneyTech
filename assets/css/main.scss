@@ -438,13 +438,36 @@ h4 {
    Research page
    ================================== */
 
+.research-page__opening {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 180px;
+  gap: 3.5rem;
+  max-width: 900px;
+  align-items: center;
+  margin-bottom: 2.25rem;
+}
+
 .research-page__intro {
   max-width: 800px;
-  margin-bottom: 2.25rem;
+  margin-bottom: 0;
 }
 
 .research-page__intro p:last-child {
   margin-bottom: 0;
+}
+
+.research-page__mark {
+  width: 100%;
+  max-width: 180px;
+  margin: 0;
+  justify-self: end;
+}
+
+.research-page__mark img {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0;
 }
 
 .research-journey {
@@ -820,6 +843,7 @@ h4 {
 @media (max-width: 700px) {
   .home-focus__list,
   .home-researcher,
+  .research-page__opening,
   .research-at-a-glance,
   .research-current,
   .research-transcript__content--phases,
@@ -847,6 +871,15 @@ h4 {
 
   .home-researcher__portrait {
     max-width: 160px;
+  }
+
+  .research-page__opening {
+    gap: 1.5rem;
+  }
+
+  .research-page__mark {
+    max-width: 140px;
+    justify-self: start;
   }
 
   .research-at-a-glance {

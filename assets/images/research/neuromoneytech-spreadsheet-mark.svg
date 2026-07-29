@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">NeuroMoneyTech colour-coded spreadsheet mark</title>
+  <desc id="desc">An abstract spreadsheet with calm colour-coded cells arranged into a rising, connected pattern.</desc>
+
+  <!-- Soft paper-like tile -->
+  <rect x="42" y="42" width="428" height="428" rx="82" fill="#F2EFF3"/>
+
+  <!-- Spreadsheet frame -->
+  <rect x="96" y="105" width="320" height="302" rx="24" fill="#FFFFFF" stroke="#3F3A46" stroke-width="14"/>
+
+  <!-- Header band -->
+  <path d="M120 105h272a24 24 0 0 1 24 24v38H96v-38a24 24 0 0 1 24-24Z" fill="#6B5B7E"/>
+  <circle cx="126" cy="136" r="8" fill="#F2EFF3" opacity=".92"/>
+  <rect x="148" y="129" width="66" height="14" rx="7" fill="#F2EFF3" opacity=".76"/>
+
+  <!-- Joyful coin mascot -->
+  <circle cx="380" cy="136" r="21" fill="#E4D7C1"/>
+  <circle cx="373" cy="131" r="2.8" fill="#3F3A46"/>
+  <circle cx="387" cy="131" r="2.8" fill="#3F3A46"/>
+  <path d="M371 140c5 7 13 7 18 0" fill="none" stroke="#3F3A46" stroke-width="3.5" stroke-linecap="round"/>
+
+  <!-- Calm colour-coded cells -->
+  <rect x="111" y="182" width="57" height="49" rx="9" fill="#CDD9D2"/>
+  <rect x="178" y="182" width="66" height="49" rx="9" fill="#E4D7C1"/>
+  <rect x="254" y="182" width="57" height="49" rx="9" fill="#D8D1DF"/>
+  <rect x="321" y="182" width="80" height="49" rx="9" fill="#BFCED8"/>
+
+  <rect x="111" y="241" width="57" height="62" rx="9" fill="#E8E4E9"/>
+  <rect x="178" y="241" width="66" height="62" rx="9" fill="#A9BFAF"/>
+  <rect x="254" y="241" width="57" height="62" rx="9" fill="#E8E4E9"/>
+  <rect x="321" y="241" width="80" height="62" rx="9" fill="#C1B3CD"/>
+
+  <rect x="111" y="313" width="57" height="79" rx="9" fill="#BFCED8"/>
+  <rect x="178" y="313" width="66" height="79" rx="9" fill="#E8E4E9"/>
+  <rect x="254" y="313" width="57" height="79" rx="9" fill="#D5C29F"/>
+  <rect x="321" y="313" width="80" height="79" rx="9" fill="#9EAFBE"/>
+
+  <!-- Money cell -->
+  <text x="211" y="220" text-anchor="middle" fill="#3F3A46" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="700">£</text>
+
+  <!-- Connected data path -->
+  <path d="M139 272h72l72 80h78" fill="none" stroke="#3F3A46" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="139" cy="272" r="14" fill="#6B5B7E" stroke="#FFFFFF" stroke-width="6"/>
+  <circle cx="211" cy="272" r="14" fill="#6B5B7E" stroke="#FFFFFF" stroke-width="6"/>
+  <circle cx="283" cy="352" r="14" fill="#6B5B7E" stroke="#FFFFFF" stroke-width="6"/>
+  <circle cx="361" cy="352" r="14" fill="#6B5B7E" stroke="#FFFFFF" stroke-width="6"/>
+</svg>

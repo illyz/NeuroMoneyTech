@@ -5,9 +5,15 @@ classes: wide
 ---
 
 <div class="research-page">
-  <div class="research-page__intro">
-    <p class="research-page__lede">My PhD research examines how autistic adults navigate money, how they adapt financial technologies, and how autistic perspectives can inform the design of different financial futures.</p>
-    <p>The work currently comprises two connected studies: one completed and one ongoing.</p>
+  <div class="research-page__opening">
+    <div class="research-page__intro">
+      <p class="research-page__lede">My PhD research examines how autistic adults navigate money, how they adapt financial technologies, and how autistic perspectives can inform the design of different financial futures.</p>
+      <p>The work currently comprises two connected studies: one completed and one ongoing.</p>
+    </div>
+
+    <figure class="research-page__mark">
+      <img src="{{ '/assets/images/research/neuromoneytech-spreadsheet-mark.svg' | relative_url }}" width="512" height="512" alt="An abstract colour-coded spreadsheet with a pound sign and connected data points.">
+    </figure>
   </div>
 
   <nav class="research-journey" aria-label="Research studies">
