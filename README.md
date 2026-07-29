@@ -1,1 +1,1 @@
-Research, design and lived experiences at the intersection of neurodiversity, money and technology. 
+PhD research at the intersection of autism, moneywork and technology.

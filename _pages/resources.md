@@ -1,24 +1,24 @@
 ---
-title: "Other Resources"
+title: "Resources"
 permalink: /resources/
 ---
 
-This page contains a collection of resources related to autism, neurodiversity, money management, financial wellbeing, and inclusive financial technologies.
+<div class="resources-page">
+  <p class="page-intro">A curated collection of resources about autism, money management, financial wellbeing, and inclusive financial technologies.</p>
+  <p class="page-note">These links are not endorsements. They may be useful to autistic people, supporters, researchers, designers, and practitioners.</p>
 
-The resources listed here are not endorsements. They have been selected because they may be useful to neurodivergent people, researchers, designers, and practitioners interested in the intersection of neurodiversity, money, and technology.
-
-<div class="resource-grid">
-{% for resource in site.data.resources.resources_row %}
-  <div class="resource-card">
-    <h3>{{ resource.title }}</h3>
-    <p>{{ resource.excerpt }}</p>
-    <a class="resource-button" href="{{ resource.url }}"> {{ resource.btn_label }} </a>
+  <div class="resource-grid">
+  {% for resource in site.data.resources.resources_row %}
+    <article class="resource-card">
+      <h2>{{ resource.title }}</h2>
+      <p>{{ resource.excerpt }}</p>
+      <a class="resource-button" href="{{ resource.url }}" target="_blank" rel="noopener noreferrer">{{ resource.btn_label }}</a>
+    </article>
+  {% endfor %}
   </div>
-{% endfor %}
+
+  <section class="resource-suggestion" aria-labelledby="suggest-resource-title">
+    <h2 id="suggest-resource-title">Suggest a resource</h2>
+    <p>If you know of a useful resource, email <a href="mailto:helena.lyhme@citystgeorges.ac.uk">helena.lyhme@citystgeorges.ac.uk</a>.</p>
+  </section>
 </div>
-
----
-
-## Suggest a Resource
-
-If you know of a resource that would be useful to include on this page, please get in touch [helena.lyhme@citystgeorges.ac.uk](mailto:helena.lyhme@citystgeorges.ac.uk).
