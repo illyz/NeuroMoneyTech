@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: "Reinventing the Future of Financial Technologies with Autistic Adults"
 permalink: /research/
 classes: wide
 ---
@@ -7,43 +7,56 @@ classes: wide
 <div class="research-page">
   <div class="research-page__opening">
     <div class="research-page__intro">
-      <p class="research-page__lede">My PhD research examines how autistic adults navigate money, how they adapt financial technologies, and how autistic perspectives can inform the design of different financial futures.</p>
-      <p>The work currently comprises two connected studies: one completed and one ongoing.</p>
+      <p class="research-page__lede">This PhD explores how financial technologies could be designed differently by working with autistic adults and learning from their experiences, practices, and ideas.</p>
     </div>
+  </div>
 
-    <figure class="research-page__mark">
-      <img src="{{ '/assets/images/research/neuromoneytech-spreadsheet-mark.svg' | relative_url }}" width="512" height="512" alt="An abstract colour-coded spreadsheet with a pound sign and connected data points.">
+  <div class="research-page__contents-layout">
+    <nav class="research-page__contents" aria-label="On this page">
+      <span>On this page</span>
+      <ul>
+        <li><a href="#phd-overview"><span aria-hidden="true">›</span><span>PhD overview</span></a></li>
+        <li><a href="#research-questions"><span aria-hidden="true">›</span><span>Research questions</span></a></li>
+        <li><a href="#research-method"><span aria-hidden="true">›</span><span>Research methods</span></a></li>
+        <li><a href="#completed-study"><span aria-hidden="true">›</span><span>Completed research</span></a></li>
+        <li><a href="#current-study"><span aria-hidden="true">›</span><span>Research underway</span></a></li>
+      </ul>
+    </nav>
+
+    <figure class="research-page__mark" aria-hidden="true">
+      <img src="{{ '/assets/images/research/neuromoneytech-spreadsheet-mark.svg' | relative_url }}" width="512" height="512" alt="">
     </figure>
   </div>
 
-  <nav class="research-journey" aria-label="Research studies">
-    <a class="research-journey__item research-journey__item--complete" href="#completed-study">
-      <span class="research-journey__number" aria-hidden="true">01</span>
-      <span><strong>Findings available</strong><small>Navigating Financial Lives</small></span>
-    </a>
-    <a class="research-journey__item research-journey__item--current" href="#current-study">
-      <span class="research-journey__number" aria-hidden="true">02</span>
-      <span><strong>Research in progress</strong><small>Designing for Autistic Joy</small></span>
-    </a>
-  </nav>
+  <section class="research-overview" id="phd-overview" aria-labelledby="phd-overview-title">
+    <span class="research-section-label">PhD overview</span>
+    <h2 id="phd-overview-title">Why this research matters</h2>
 
-  <section class="research-framework" aria-labelledby="research-framework-title">
-    <span class="research-section-label">Research framework</span>
-    <h2 id="research-framework-title">How the studies connect</h2>
-    <p>The research moves from understanding autistic adults' existing financial lives towards considering how financial technologies could be designed differently from autistic perspectives.</p>
+    <p>Digital technologies now shape almost every part of managing money. They can make financial tasks easier, but they can also introduce new barriers and unintended consequences.</p>
 
-    <details class="research-media">
-      <summary>View the research framework diagram</summary>
-      <figure class="research-figure">
-        <a href="{{ '/assets/images/research/research-framework.png' | relative_url }}" target="_blank" rel="noopener noreferrer" aria-label="Open the research framework diagram at full size">
-          <img src="{{ '/assets/images/research/research-framework.png' | relative_url }}" width="2470" height="1380" loading="lazy" alt="Research framework showing four questions across the Discover, Define, Design, and Deliver stages. A complete text version follows below.">
-        </a>
-        <figcaption>
-          <span>The four research questions across the Discover, Define, Design, and Deliver stages.</span>
-          <a href="{{ '/assets/images/research/research-framework.png' | relative_url }}" target="_blank" rel="noopener noreferrer">Open full-size image</a>
-        </figcaption>
-      </figure>
-    </details>
+    <p>These barriers can deepen financial exclusion, particularly for people who already experience financial difficulty, inaccessible services, or other forms of inequality.</p>
+
+    <p>This research uses participatory design methods to work with autistic adults rather than treating them only as users of technology.</p>
+
+    <p>Together, we critically examine existing financial tools and services, identify where they do not work well, and explore how they could be designed differently.</p>
+
+    <p>Autistic adults bring diverse lived experiences, creative practices, and ways of thinking about technology. These perspectives can reveal overlooked problems and open up new possibilities for the future of financial design.</p>
+  </section>
+
+  <section class="research-framework" id="research-questions" aria-labelledby="research-framework-title">
+    <span class="research-section-label">Research questions</span>
+    <h2 id="research-framework-title">From understanding current experiences to designing differently</h2>
+    <p>The PhD is organised around four connected questions. They move from understanding autistic adults' experiences and adaptations to exploring what financial technologies could become.</p>
+
+    <figure class="research-figure research-figure--featured">
+      <a href="{{ '/assets/images/research/research-framework.png' | relative_url }}" target="_blank" rel="noopener noreferrer" aria-label="Open the research framework diagram at full size">
+        <img src="{{ '/assets/images/research/research-framework.png' | relative_url }}" width="2470" height="1380" loading="lazy" alt="Research framework showing four questions across the Discover, Define, Design, and Deliver stages. A complete text version follows below.">
+      </a>
+      <figcaption>
+        <span>The four research questions across the Discover, Define, Design, and Deliver stages.</span>
+        <a href="{{ '/assets/images/research/research-framework.png' | relative_url }}" target="_blank" rel="noopener noreferrer">Open full-size image</a>
+      </figcaption>
+    </figure>
 
     <details class="research-transcript">
       <summary>Read the research questions as text</summary>
@@ -51,29 +64,63 @@ classes: wide
         <div class="research-question-phase">
           <span class="research-question-phase__label">Discover and define</span>
           <ol>
-            <li><strong>Challenges:</strong> What challenges do autistic adults experience with money management in general and financial technologies in particular?</li>
-            <li><strong>Adaptations:</strong> What coping strategies and adaptations have autistic adults developed to manage their financial lives more effectively?</li>
+            <li><strong>Challenges:</strong> What challenges do autistic adults experience with money management and financial technologies?</li>
+            <li><strong>Adaptations:</strong> What strategies and adaptations have autistic adults developed to manage their financial lives?</li>
           </ol>
         </div>
         <div class="research-question-phase">
           <span class="research-question-phase__label">Design and deliver</span>
           <ol start="3">
-            <li><strong>Learning from practice:</strong> What can we learn about the design of existing financial technologies by studying and critically assessing them from autistic perspectives and practices?</li>
-            <li><strong>Designing differently:</strong> How could financial technologies be different if designed from autistic perspectives?</li>
+            <li><strong>Learning from practice:</strong> What can autistic perspectives and practices teach us about the design of existing financial technologies?</li>
+            <li><strong>Designing differently:</strong> How could financial technologies be different if they were designed from autistic perspectives?</li>
           </ol>
         </div>
       </div>
     </details>
   </section>
 
+  <section class="research-method" id="research-method" aria-labelledby="research-method-title">
+    <span class="research-section-label">Research methods</span>
+    <h2 id="research-method-title">How the research is carried out</h2>
+
+    <h3>Participatory design</h3>
+    <p>Participatory design involves people who are affected by a technology in examining and shaping its design. This PhD uses participatory approaches to bring autistic adults' lived experiences, priorities, and ideas into the research and design process.</p>
+
+    <h3>Collaborative Visual Thinking</h3>
+    <p class="research-study__lead">A visual interview method in which the participant and researcher create a shared map during their conversation.</p>
+
+    <p>The method can support different communication preferences and help participants explore complex topics, relationships, and experiences. It was used in the first study to explore participants' financial lives, the tools they used, and the people involved.</p>
+
+    <p class="page-note">Example visual artefacts:</p>
+
+    <div class="cvt-example-grid cvt-example-grid--preview" role="group" aria-label="Two examples of Collaborative Visual Thinking artefacts">
+      <figure class="cvt-example">
+        <a href="{{ '/assets/images/research/cvt-example-spreadsheet.png' | relative_url }}" aria-label="Open the spreadsheet-style example at full size">
+          <img src="{{ '/assets/images/research/cvt-example-spreadsheet.png' | relative_url }}" alt="Abstract spreadsheet-style visual artefact with pastel-coded rows, columns, symbols, and short text lines." loading="lazy" decoding="async">
+        </a>
+        <figcaption>Spreadsheet</figcaption>
+      </figure>
+
+      <figure class="cvt-example">
+        <a href="{{ '/assets/images/research/cvt-example-sticky-notes.png' | relative_url }}" aria-label="Open the connected sticky-notes example at full size">
+          <img src="{{ '/assets/images/research/cvt-example-sticky-notes.png' | relative_url }}" alt="Abstract visual artefact made from pastel sticky notes connected by directional arrows." loading="lazy" decoding="async">
+        </a>
+        <figcaption>Connected sticky notes</figcaption>
+      </figure>
+    </div>
+
+    <div class="research-actions">
+      <a class="research-action research-action--secondary" href="{{ '/research/collaborative-visual-thinking/' | relative_url }}">Learn about the method and see more examples</a>
+    </div>
+  </section>
+
   <section class="research-study research-study--complete" id="completed-study">
     <header class="research-study__header">
       <div class="research-study__meta">
         <span class="research-status research-status--complete">Completed study</span>
-        <span>CHI 2026</span>
       </div>
       <h2>Navigating Financial Lives</h2>
-      <p class="research-study__lead">How autistic adults adapt financial technologies, tools, and strategies to make everyday money management work for them.</p>
+      <p class="research-study__lead">How autistic adults use, adapt, and combine financial technologies, tools, and personal strategies.</p>
     </header>
 
     <div class="research-at-a-glance" aria-label="Study at a glance">
@@ -82,74 +129,12 @@ classes: wide
       <div><strong>Visual</strong><span>mapping interviews</span></div>
     </div>
 
-    <h3 class="research-findings__title">What we learned</h3>
-    <div class="research-findings" role="list">
-      <article class="research-finding" role="listitem">
-        <span class="research-finding__number" aria-hidden="true">01</span>
-        <div><h4>People made technology fit their lives</h4><p>Participants combined bank accounts, digital pots, spreadsheets, notebooks, reminders, and personal routines into systems that worked for them.</p></div>
-      </article>
-      <article class="research-finding" role="listitem">
-        <span class="research-finding__number" aria-hidden="true">02</span>
-        <div><h4>Strengths and difficulties can coexist</h4><p>Attention to detail and analytical thinking could support money management, while anxiety, uncertainty, and executive functioning demands could make it overwhelming.</p></div>
-      </article>
-      <article class="research-finding" role="listitem">
-        <span class="research-finding__number" aria-hidden="true">03</span>
-        <div><h4>There is no single autistic way to manage money</h4><p>Some people wanted simplicity and automation; others preferred detail and direct control. Flexible tools are more useful than one-size-fits-all solutions.</p></div>
-      </article>
-      <article class="research-finding" role="listitem">
-        <span class="research-finding__number" aria-hidden="true">04</span>
-        <div><h4>Money management extends beyond banking apps</h4><p>Financial life involved technologies, physical objects, routines, and support from other people—not just a single app or service.</p></div>
-      </article>
-      <article class="research-finding" role="listitem">
-        <span class="research-finding__number" aria-hidden="true">05</span>
-        <div><h4>Joy and creativity matter</h4><p>Creating systems, analysing information, and colour-coding could be enjoyable and empowering—not simply signs of rigidity or difficulty.</p></div>
-      </article>
-    </div>
+    <p>Interviews with 20 autistic adults highlighted both challenges and strengths associated with money management. Participants described creating highly individual systems involving bank accounts, spreadsheets, reminders, automation, routines, and other forms of support.</p>
 
-    <section class="research-visual-summary" aria-labelledby="research-visual-summary-title">
-      <h3 id="research-visual-summary-title">Challenges and strategies at a glance</h3>
-      <p>The study identified four broad challenges in moneywork and the strategies, tools, and technologies participants used in response.</p>
-
-      <details class="research-media">
-        <summary>View the challenges and strategies diagram</summary>
-        <figure class="research-figure">
-          <a href="{{ '/assets/images/research/challenges-and-strategies.png' | relative_url }}" target="_blank" rel="noopener noreferrer" aria-label="Open the challenges and strategies summary at full size">
-            <img src="{{ '/assets/images/research/challenges-and-strategies.png' | relative_url }}" width="960" height="540" loading="lazy" alt="Visual summary linking four challenges in moneywork to strategies, tools, and technologies. A complete text version follows below.">
-          </a>
-          <figcaption>
-            <span>A visual overview of challenges and the strategies used in response.</span>
-            <a href="{{ '/assets/images/research/challenges-and-strategies.png' | relative_url }}" target="_blank" rel="noopener noreferrer">Open full-size image</a>
-          </figcaption>
-        </figure>
-      </details>
-
-      <details class="research-transcript">
-        <summary>Read this visual as text</summary>
-        <div class="research-transcript__content">
-          <dl class="research-summary-list">
-            <div>
-              <dt>Emotional barriers and disinterest</dt>
-              <dd>Positive framing and harnessing autistic joy.</dd>
-            </div>
-            <div>
-              <dt>Keeping an overview and getting lost in detail</dt>
-              <dd>Financial tracking; account separation, earmarking, and adding friction.</dd>
-            </div>
-            <div>
-              <dt>Cognitive and mental load</dt>
-              <dd>Minimalist and straightforward design; externalising and simplifying information.</dd>
-            </div>
-            <div>
-              <dt>Maintaining consistency and regularity</dt>
-              <dd>Automation; setting goals, list ticking, and gamification.</dd>
-            </div>
-          </dl>
-        </div>
-      </details>
-    </section>
+    <p>The findings show that there is no single autistic way of managing money. Financial technologies should therefore offer flexibility and personal control rather than assuming that one approach will work for everyone.</p>
 
     <div class="research-actions">
-      <a class="research-action research-action--primary" href="{{ '/research/navigating-financial-lives/' | relative_url }}">Explore the full study</a>
+      <a class="research-action research-action--primary" href="{{ '/research/navigating-financial-lives/' | relative_url }}">Explore the study and findings</a>
       <a class="research-action research-action--secondary" href="{{ '/publications/' | relative_url }}">View the publication</a>
     </div>
   </section>
@@ -158,24 +143,19 @@ classes: wide
     <header class="research-study__header">
       <div class="research-study__meta">
         <span class="research-status research-status--current">In progress</span>
-        <span>Current study</span>
       </div>
       <h2>Designing for Autistic Joy in Everyday Money Practices</h2>
-      <p class="research-study__lead">This study explores how autistic joy could inspire new ways of managing money and designing financial tools and systems.</p>
+      <p class="research-study__lead">Exploring how autistic joy could provide a different starting point for thinking about money and financial technology.</p>
     </header>
 
-    <div class="research-current">
-      <div class="research-current__goal">
-        <span class="research-current__label">The goal</span>
-        <p>To look beyond problem-focused accounts of autism and money, and explore what financial technologies might become when autistic enjoyment, interests, creativity, and ways of doing things are treated as valuable design knowledge.</p>
-      </div>
-      <div class="research-updates">
-        <h3>Study updates</h3>
-        <div class="research-update">
-          <span class="research-update__marker" aria-hidden="true"></span>
-          <div><strong>Research is underway</strong><p>There are no findings to share yet. Updates will be added here as the study develops.</p></div>
-        </div>
-      </div>
+    <p>Rather than focusing only on difficulties and barriers, the research considers enjoyable, meaningful, and affirming aspects of autistic money practices. It asks what these experiences could teach us about designing financial tools and systems differently.</p>
+
+    <div class="research-update" role="note" aria-label="Current study status">
+      <div><strong>Research is underway</strong><p>There are no findings to share yet. Updates will be added as the study progresses.</p></div>
+    </div>
+
+    <div class="research-actions">
+      <a class="research-action research-action--secondary" href="{{ '/research/autistic-joy/' | relative_url }}">Learn about the current study</a>
     </div>
   </section>
 </div>

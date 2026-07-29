@@ -179,6 +179,130 @@ h4 {
   background: var(--nmt-primary);
 }
 
+/* Research dropdown */
+.greedy-nav .visible-links {
+  overflow: visible;
+}
+
+.nav-dropdown {
+  position: relative;
+}
+
+.nav-dropdown__trigger {
+  display: flex;
+  align-items: center;
+}
+
+.nav-dropdown__trigger > a {
+  margin-right: 0.15rem;
+}
+
+.nav-dropdown__toggle {
+  display: inline-flex;
+  width: 44px;
+  height: 44px;
+  flex: 0 0 44px;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  border: 0;
+  border-radius: 6px;
+  background: transparent;
+  color: var(--nmt-text);
+  cursor: pointer;
+}
+
+.nav-dropdown__toggle:hover {
+  background: var(--nmt-surface-muted);
+  color: var(--nmt-primary-dark);
+}
+
+.nav-dropdown__toggle:focus-visible {
+  outline: 3px solid var(--nmt-focus);
+  outline-offset: 2px;
+}
+
+.nav-dropdown__icon {
+  width: 0.55rem;
+  height: 0.55rem;
+  border-right: 2px solid currentColor;
+  border-bottom: 2px solid currentColor;
+  transform: translateY(-2px) rotate(45deg);
+}
+
+.nav-dropdown.is-open .nav-dropdown__icon {
+  transform: translateY(2px) rotate(225deg);
+}
+
+.nav-dropdown__menu {
+  position: absolute;
+  z-index: 100;
+  top: calc(100% + 0.4rem);
+  right: 0;
+  width: 29rem;
+  min-width: 22rem;
+  max-width: min(31rem, calc(100vw - 2rem));
+  margin: 0;
+  padding: 0.4rem;
+  list-style: none;
+  border: 1px solid var(--nmt-border);
+  border-radius: 10px;
+  background: var(--nmt-surface);
+  box-shadow: 0 10px 28px rgba(45, 42, 51, 0.12);
+}
+
+.nav-dropdown__menu li + li {
+  border-top: 1px solid var(--nmt-border);
+}
+
+.nav-dropdown__menu a,
+.greedy-nav .visible-links .nav-dropdown__menu a {
+  display: block;
+  min-height: 44px;
+  margin: 0;
+  padding: 0.75rem 0.85rem;
+  border-radius: 6px;
+  font-size: 0.82rem;
+  font-weight: 600;
+  line-height: 1.4;
+  white-space: normal;
+}
+
+.nav-dropdown__menu a:hover {
+  background: var(--nmt-surface-muted);
+}
+
+.greedy-nav .visible-links .nav-dropdown__menu a::before {
+  display: none;
+}
+
+/* When Research moves into the responsive overflow menu. */
+.greedy-nav .hidden-links .nav-dropdown__trigger > a {
+  flex: 1;
+}
+
+.greedy-nav .hidden-links .nav-dropdown__menu {
+  position: static;
+  width: auto;
+  min-width: 0;
+  max-width: none;
+  margin: 0 0.4rem 0.4rem;
+  padding: 0 0 0 0.65rem;
+  border: 0;
+  border-left: 2px solid var(--nmt-border);
+  border-radius: 0;
+  box-shadow: none;
+}
+
+.greedy-nav .hidden-links .nav-dropdown__menu li {
+  border: 0;
+}
+
+.greedy-nav .hidden-links .nav-dropdown__menu a {
+  padding: 0.65rem 0.75rem;
+  font-size: 0.78rem;
+}
+
 /* Home hero */
 .page__hero--overlay {
   padding: clamp(3rem, 8vw, 5.5rem) 0;
@@ -439,12 +563,8 @@ h4 {
    ================================== */
 
 .research-page__opening {
-  display: grid;
-  grid-template-columns: minmax(0, 1fr) 180px;
-  gap: 3.5rem;
   max-width: 900px;
-  align-items: center;
-  margin-bottom: 2.25rem;
+  margin-bottom: 2.75rem;
 }
 
 .research-page__intro {
@@ -458,7 +578,7 @@ h4 {
 
 .research-page__mark {
   width: 100%;
-  max-width: 180px;
+  max-width: 280px;
   margin: 0;
   justify-self: end;
 }
@@ -468,6 +588,64 @@ h4 {
   width: 100%;
   height: auto;
   margin: 0;
+}
+
+.research-page__contents {
+  display: block;
+  margin: 0;
+  padding: 0;
+}
+
+.research-page__contents-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 280px;
+  max-width: 900px;
+  gap: 3.5rem;
+  align-items: center;
+  margin: 0 0 3.75rem;
+}
+
+.research-page__contents > span {
+  margin-bottom: 0.2rem;
+  color: var(--nmt-muted);
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.research-page__contents ul {
+  display: grid;
+  max-width: 24rem;
+  gap: 0.1rem;
+  margin: 0.55rem 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.research-page__contents a {
+  display: grid;
+  grid-template-columns: 0.75rem 1fr;
+  min-height: 44px;
+  gap: 0.55rem;
+  align-items: center;
+  padding: 0.25rem 0;
+  font-size: 0.84rem;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.research-page__contents a span:first-child {
+  color: var(--nmt-primary);
+  font-size: 1.15rem;
+  font-weight: 500;
+  line-height: 1;
+}
+
+.research-page__contents a:hover span:last-child {
+  text-decoration: underline;
+  text-decoration-thickness: 0.08em;
+  text-underline-offset: 0.18em;
 }
 
 .research-journey {
@@ -512,7 +690,9 @@ h4 {
   font-size: 0.82rem;
 }
 
+.research-overview,
 .research-framework,
+.research-method,
 .research-study {
   max-width: 900px;
   margin-bottom: 4rem;
@@ -521,13 +701,17 @@ h4 {
   scroll-margin-top: 5rem;
 }
 
+.research-overview > p,
 .research-framework > p,
+.research-method > p,
 .research-study__lead,
 .research-visual-summary > p {
   max-width: var(--nmt-reading-width);
 }
 
+.research-page .research-overview h2,
 .research-page .research-framework h2,
+.research-page .research-method h2,
 .research-page .research-study h2 {
   margin: 0 0 0.65rem;
   font-size: clamp(1.45rem, 3vw, 2rem);
@@ -661,8 +845,54 @@ h4 {
   justify-content: space-between;
   margin-top: 0.5rem;
   color: var(--nmt-muted);
+  font-family: inherit;
   font-size: 0.76rem;
   line-height: 1.5;
+}
+
+/* Collaborative Visual Thinking examples */
+.cvt-example-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.25rem;
+  margin: 1.25rem 0 2.5rem;
+}
+
+.cvt-example-grid--preview {
+  max-width: 800px;
+  margin-bottom: 1.5rem;
+}
+
+.cvt-example {
+  min-width: 0;
+  margin: 0;
+}
+
+.cvt-example > a {
+  display: block;
+  overflow: hidden;
+  border: 1px solid var(--nmt-border);
+  border-radius: var(--nmt-radius);
+  background: var(--nmt-surface);
+  line-height: 0;
+}
+
+.cvt-example > a:hover {
+  border-color: var(--nmt-primary);
+}
+
+.cvt-example img {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: contain;
+}
+
+.cvt-example figcaption {
+  margin-top: 0.45rem;
+  color: var(--nmt-muted);
+  font-family: inherit;
+  font-size: 0.84rem;
+  font-weight: 600;
 }
 
 .research-transcript__content,
@@ -843,11 +1073,12 @@ h4 {
 @media (max-width: 700px) {
   .home-focus__list,
   .home-researcher,
-  .research-page__opening,
+  .research-page__contents-layout,
   .research-at-a-glance,
   .research-current,
   .research-transcript__content--phases,
-  .research-summary-list {
+  .research-summary-list,
+  .cvt-example-grid {
     grid-template-columns: 1fr;
   }
 
@@ -873,12 +1104,12 @@ h4 {
     max-width: 160px;
   }
 
-  .research-page__opening {
+  .research-page__contents-layout {
     gap: 1.5rem;
   }
 
   .research-page__mark {
-    max-width: 140px;
+    max-width: 170px;
     justify-self: start;
   }
 

@@ -4,6 +4,15 @@ main:
 
   - title: "Research"
     url: /research/
+    children:
+      - title: "Research methods: Collaborative Visual Thinking"
+        url: /research/collaborative-visual-thinking/
+
+      - title: "Completed research: Navigating Financial Lives"
+        url: /research/navigating-financial-lives/
+
+      - title: "Research underway: Designing for Autistic Joy in Everyday Money Practices"
+        url: /research/autistic-joy/
 
   - title: "Publications"
     url: /publications/
