@@ -1,0 +1,10 @@
+{% comment %}
+Load the compiled stylesheet with a build-specific URL so browsers do not keep
+using an older cached design after a GitHub Pages deployment.
+{% endcomment %}
+{% if site.github.build_revision %}
+  {% assign stylesheet_version = site.github.build_revision %}
+{% else %}
+  {% assign stylesheet_version = site.time | date: "%s" %}
+{% endif %}
+<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}?v={{ stylesheet_version }}">
