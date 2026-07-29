@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">NeuroMoneyTech spreadsheet face logo</title>
+  <desc id="desc">A colour-coded spreadsheet whose highlighted cells form a simple, friendly face.</desc>
+
+  <rect x="82" y="82" width="348" height="348" rx="38" fill="#FFFFFF" stroke="#3F3A46" stroke-width="14"/>
+
+  <!-- Consistent five-by-five spreadsheet grid -->
+  <g rx="10">
+    <rect x="104" y="104" width="49" height="49" rx="10" fill="#D8D1DF"/><rect x="168" y="104" width="49" height="49" rx="10" fill="#E4D7C1"/><rect x="232" y="104" width="49" height="49" rx="10" fill="#CDD9D2"/><rect x="296" y="104" width="49" height="49" rx="10" fill="#BFCED8"/><rect x="360" y="104" width="49" height="49" rx="10" fill="#C1B3CD"/>
+    <rect x="104" y="168" width="49" height="49" rx="10" fill="#BFCED8"/><rect x="168" y="168" width="49" height="49" rx="10" fill="#E7E3E8"/><rect x="232" y="168" width="49" height="49" rx="10" fill="#E4D7C1"/><rect x="296" y="168" width="49" height="49" rx="10" fill="#CDD9D2"/><rect x="360" y="168" width="49" height="49" rx="10" fill="#D8D1DF"/>
+    <rect x="104" y="232" width="49" height="49" rx="10" fill="#E7CDD6"/><rect x="168" y="232" width="49" height="49" rx="10" fill="#D8D1DF"/><rect x="232" y="232" width="49" height="49" rx="10" fill="#E7E3E8"/><rect x="296" y="232" width="49" height="49" rx="10" fill="#E4D7C1"/><rect x="360" y="232" width="49" height="49" rx="10" fill="#E7CDD6"/>
+    <rect x="104" y="296" width="49" height="49" rx="10" fill="#E4D7C1"/><rect x="168" y="296" width="49" height="49" rx="10" fill="#BFCED8"/><rect x="232" y="296" width="49" height="49" rx="10" fill="#CDD9D2"/><rect x="296" y="296" width="49" height="49" rx="10" fill="#D8D1DF"/><rect x="360" y="296" width="49" height="49" rx="10" fill="#C1B3CD"/>
+    <rect x="104" y="360" width="49" height="49" rx="10" fill="#D8D1DF"/><rect x="168" y="360" width="49" height="49" rx="10" fill="#CDD9D2"/><rect x="232" y="360" width="49" height="49" rx="10" fill="#E4D7C1"/><rect x="296" y="360" width="49" height="49" rx="10" fill="#BFCED8"/><rect x="360" y="360" width="49" height="49" rx="10" fill="#C1B3CD"/>
+  </g>
+
+  <!-- Face highlighted above the regular grid -->
+  <rect x="161" y="168" width="63" height="49" rx="18" fill="#6B5B7E"/>
+  <rect x="289" y="168" width="63" height="49" rx="18" fill="#6B5B7E"/>
+  <circle cx="179" cy="184" r="8" fill="#FFFFFF"/>
+  <circle cx="194" cy="197" r="3.5" fill="#FFFFFF" opacity=".88"/>
+  <circle cx="307" cy="184" r="8" fill="#FFFFFF"/>
+  <circle cx="322" cy="197" r="3.5" fill="#FFFFFF" opacity=".88"/>
+  <!-- Joyful open smile as a merged spreadsheet cell -->
+  <path d="M160 252h192c12 0 20 10 18 22-10 62-53 95-114 95s-104-33-114-95c-2-12 6-22 18-22Z" fill="#6B5B7E"/>
+</svg>
