@@ -74,20 +74,23 @@ h4 {
 }
 
 .page {
+  float: none;
   width: 100%;
-  padding-right: 0;
+  padding-inline-end: 0;
 }
 
-.page__inner-wrap {
-  max-width: 1120px;
-  margin-right: auto;
-  margin-left: auto;
-}
-
-.page__content {
+.page .page__inner-wrap {
+  float: none;
+  width: 100%;
   max-width: 960px;
-  margin-right: auto;
-  margin-left: auto;
+  margin-inline: auto;
+}
+
+.page .page__inner-wrap .page__content {
+  float: none;
+  width: 100%;
+  max-width: 960px;
+  margin-inline: auto;
   color: var(--nmt-text);
 }
 
