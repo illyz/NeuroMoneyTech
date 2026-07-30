@@ -5,13 +5,24 @@ permalink: /research/collaborative-visual-thinking/
 
 <p class="page-intro">A qualitative research method for exploring complex and abstract topics with autistic adults.</p>
 
-## What is Collaborative Visual Thinking?
+<nav class="research-page__contents cvt-page__contents" aria-label="On this page">
+  <span>On this page</span>
+  <ul>
+    <li><a href="#what-is-cvt"><span aria-hidden="true">›</span><span>What is Collaborative Visual Thinking?</span></a></li>
+    <li><a href="#visual-artefacts"><span aria-hidden="true">›</span><span>Examples of visual artefacts</span></a></li>
+    <li><a href="#why-visual"><span aria-hidden="true">›</span><span>Why use a visual method?</span></a></li>
+    <li><a href="#process"><span aria-hidden="true">›</span><span>How the process works</span></a></li>
+    <li><a href="#cvt-publication"><span aria-hidden="true">›</span><span>Publication</span></a></li>
+  </ul>
+</nav>
+
+## What is Collaborative Visual Thinking? {#what-is-cvt}
 
 Collaborative Visual Thinking combines a semi-structured interview with the creation of a shared visual map. The participant and researcher build the map together on a collaboration canvas, such as a digital whiteboard.
 
 The canvas uses a small number of guiding concepts to support the conversation. Participants can talk, write, organise information visually, or combine these approaches.
 
-### Examples of visual artefacts
+### Examples of visual artefacts {#visual-artefacts}
 
 There is no required format for the shared visual artefact. Its structure can reflect the topic, the participant's preferences, and the relationships they want to explore.
 
@@ -47,7 +58,7 @@ These illustrations show four possible forms. They are examples only and do not 
   </figure>
 </div>
 
-## Why use a visual method?
+## Why use a visual method? {#why-visual}
 
 The method can support different communication preferences and make relationships between experiences easier to see. The shared map also gives the participant and researcher a visible point of reference during the conversation.
 
@@ -55,7 +66,7 @@ Collaborative Visual Thinking was developed during the first PhD study, which ex
 
 Feedback showed that participants generally experienced the overall process and visual approach as autism-friendly. It also identified areas requiring care, including clear expectations and sensory demands.
 
-## How the process works
+## How the process works {#process}
 
 <figure class="research-figure">
   <a href="{{ '/assets/images/research/collaborative-visual-thinking-process.png' | relative_url }}" aria-label="Open the Collaborative Visual Thinking process diagram at full size">
@@ -67,7 +78,7 @@ Feedback showed that participants generally experienced the overall process and 
   </figcaption>
 </figure>
 
-## Publication
+## Publication {#cvt-publication}
 
 The method and its development are described in the paper *Collaborative visual thinking: a qualitative method for research with autistic adults*.
 

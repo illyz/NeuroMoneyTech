@@ -16,7 +16,7 @@ classes: wide
     <div class="research-at-a-glance" aria-label="Study at a glance">
       <div><strong>20</strong><span>Autistic adults</span></div>
       <div><strong>Location</strong><span>Online / UK based</span></div>
-      <div><strong>Interviews</strong><span>Collaborative Visual Thinking</span></div>
+      <div><strong>Interviews</strong><span><a href="{{ '/research/collaborative-visual-thinking/' | relative_url }}">Collaborative Visual Thinking</a></span></div>
     </div>
   </header>
 
@@ -38,7 +38,7 @@ classes: wide
 
     <p>Money affects almost every part of daily life, but little research has examined how autistic adults experience money management or use financial technology.</p>
 
-    <p>This study involved interviews with 20 autistic adults living in the UK. During each interview, the participant and researcher created a visual map of the participant's financial life. The maps helped them explore income, spending, saving, tools, routines, and the people involved in financial decisions.</p>
+    <p>This study involved interviews with 20 autistic adults living in the UK. The interviews used <a href="{{ '/research/collaborative-visual-thinking/' | relative_url }}">Collaborative Visual Thinking</a>, a method in which the participant and researcher create a shared visual artefact during their conversation. The visual artefacts helped participants explore income, spending, saving, tools, routines, and the people involved in financial decisions.</p>
 
     <p>The study considered both challenges and strengths. It also looked closely at the creative ways participants changed tools, combined technologies, and built personal systems that worked for them.</p>
 

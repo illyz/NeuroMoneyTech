@@ -13,10 +13,16 @@ excerpt: "PhD research exploring financial technologies from autistic perspectiv
 
 <div class="home-page">
   <section class="home-overview" aria-labelledby="about-research-title">
-    <span class="home-kicker">PhD research by Helena Lyhme</span>
-    <h2 id="about-research-title">About the research</h2>
-    <p class="home-lede">My PhD research sits at the intersection of autism, moneywork, and technology. I study how autistic adults navigate their financial lives, how they adapt financial tools and systems, and what financial technologies could become if designed from autistic perspectives.</p>
-    <p>The research is situated in Human–Computer Interaction and draws on qualitative, visual, and participatory approaches to understand lived experience and inform more inclusive design.</p>
+    <div class="home-overview__copy">
+      <span class="home-kicker">PhD research by Helena Lyhme</span>
+      <h2 id="about-research-title">About the research</h2>
+      <p class="home-lede">My PhD research sits at the intersection of autism, moneywork, and technology. I study how autistic adults navigate their financial lives, how they adapt financial tools and systems, and what financial technologies could become if designed from autistic perspectives.</p>
+      <p>The research is situated in Human–Computer Interaction and draws on qualitative, visual, and participatory approaches to understand lived experience and inform more inclusive design.</p>
+    </div>
+
+    <figure class="home-overview__mark" aria-hidden="true">
+      <img src="{{ '/assets/images/research/neuromoneytech-spreadsheet-mark.svg' | relative_url }}" width="512" height="512" alt="">
+    </figure>
   </section>
 
   <section class="home-focus" aria-labelledby="research-focus-title">

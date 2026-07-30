@@ -11,7 +11,7 @@ classes: wide
     </div>
   </div>
 
-  <div class="research-page__contents-layout">
+  <div class="research-page__quick-start">
     <nav class="research-page__contents" aria-label="On this page">
       <span>On this page</span>
       <ul>
@@ -23,9 +23,32 @@ classes: wide
       </ul>
     </nav>
 
-    <figure class="research-page__mark" aria-hidden="true">
-      <img src="{{ '/assets/images/research/neuromoneytech-spreadsheet-mark.svg' | relative_url }}" width="512" height="512" alt="">
-    </figure>
+    <section class="research-featured" aria-labelledby="featured-research-title">
+      <span id="featured-research-title">Featured research</span>
+      <div class="research-featured__links">
+        <a class="research-featured__link" href="{{ '/research/collaborative-visual-thinking/' | relative_url }}">
+          <span class="research-featured__image" aria-hidden="true">
+            <img src="{{ '/assets/images/research/cvt-example-sticky-notes.png' | relative_url }}" width="1448" height="1086" alt="" loading="lazy">
+          </span>
+          <span class="research-featured__copy">
+            <span>Research method</span>
+            <strong>Collaborative Visual Thinking</strong>
+          </span>
+          <span class="research-featured__arrow" aria-hidden="true">→</span>
+        </a>
+
+        <a class="research-featured__link" href="{{ '/research/navigating-financial-lives/' | relative_url }}">
+          <span class="research-featured__image research-featured__image--contain" aria-hidden="true">
+            <img src="{{ '/assets/images/research/nfl-moneywork-examples.svg' | relative_url }}" width="460" height="600" alt="" loading="lazy">
+          </span>
+          <span class="research-featured__copy">
+            <span>Completed study</span>
+            <strong>Navigating Financial Lives</strong>
+          </span>
+          <span class="research-featured__arrow" aria-hidden="true">→</span>
+        </a>
+      </div>
+    </section>
   </div>
 
   <section class="research-overview" id="phd-overview" aria-labelledby="phd-overview-title">
@@ -46,12 +69,12 @@ classes: wide
     <p>The PhD is organised around four connected questions. They move from understanding autistic adults' experiences and adaptations to exploring what financial technologies could become.</p>
 
     <figure class="research-figure research-figure--featured">
-      <a href="{{ '/assets/images/research/research-framework.png' | relative_url }}" target="_blank" rel="noopener noreferrer" aria-label="Open the research framework diagram at full size">
-        <img src="{{ '/assets/images/research/research-framework.png' | relative_url }}" width="2470" height="1380" loading="lazy" alt="Research framework showing four questions across the Discover, Define, Design, and Deliver stages. A complete text version follows below.">
+      <a href="{{ '/assets/images/research/research-framework.svg' | relative_url }}" target="_blank" rel="noopener noreferrer" aria-label="Open the research framework diagram at full size">
+        <img src="{{ '/assets/images/research/research-framework.svg' | relative_url }}" width="960" height="600" loading="lazy" alt="Research framework showing four questions across the Discover, Define, Design, and Deliver stages. A complete text version follows below.">
       </a>
       <figcaption>
         <span>The four research questions across the Discover, Define, Design, and Deliver stages.</span>
-        <a href="{{ '/assets/images/research/research-framework.png' | relative_url }}" target="_blank" rel="noopener noreferrer">Open full-size image</a>
+        <a href="{{ '/assets/images/research/research-framework.svg' | relative_url }}" target="_blank" rel="noopener noreferrer">Open full-size image</a>
       </figcaption>
     </figure>
 
