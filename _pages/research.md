@@ -117,12 +117,12 @@ classes: wide
         <span class="research-status research-status--complete">Completed study</span>
       </div>
       <h2>Navigating Financial Lives</h2>
-      <p class="research-study__lead">How autistic adults use, adapt, and combine financial technologies, tools, and personal strategies.</p>
+      <p class="research-study__lead">This study explored how autistic adults manage their personal finances, the challenges they encounter, and how they adapt and combine financial technologies, everyday tools, and personal strategies.</p>
     </header>
 
     <div class="research-at-a-glance" aria-label="Study at a glance">
       <div><strong>20</strong><span>Autistic adults</span></div>
-      <div><strong>Location</strong><span>Online / UK based </span></div>
+      <div><strong>Location</strong><span>Online / UK based</span></div>
       <div><strong>Interviews</strong><span>Collaborative Visual Thinking</span></div>
     </div>
 
