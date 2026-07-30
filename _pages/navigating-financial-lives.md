@@ -63,7 +63,7 @@ classes: wide
 
       <figure class="study-page__moneywork-figure">
         <a href="{{ '/assets/images/research/nfl-moneywork-examples.svg' | relative_url }}" target="_blank" rel="noopener noreferrer" aria-label="Open the moneywork examples graphic at full size">
-          <img src="{{ '/assets/images/research/nfl-moneywork-examples.svg' | relative_url }}" width="460" height="600" loading="lazy" alt="Illustration of moneywork surrounded by examples including budgeting, bill paying, shopping, earmarking, learning about finances, digital and analogue systems, and emotional and relational work.">
+          <img src="{{ '/assets/images/research/nfl-moneywork-examples.svg' | relative_url }}" width="520" height="585" loading="lazy" alt="Illustration of moneywork surrounded by examples including budgeting, bill paying, shopping, earmarking, learning about finances, digital and analogue systems, and emotional and relational work.">
         </a>
         <figcaption>Moneywork can involve juggling many visible and less visible responsibilities.</figcaption>
       </figure>

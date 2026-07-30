@@ -39,7 +39,7 @@ classes: wide
 
         <a class="research-featured__link" href="{{ '/research/navigating-financial-lives/' | relative_url }}">
           <span class="research-featured__image research-featured__image--contain" aria-hidden="true">
-            <img src="{{ '/assets/images/research/nfl-moneywork-examples.svg' | relative_url }}" width="460" height="600" alt="" loading="lazy">
+            <img src="{{ '/assets/images/research/nfl-moneywork-examples.svg' | relative_url }}" width="520" height="585" alt="" loading="lazy">
           </span>
           <span class="research-featured__copy">
             <span>Completed study</span>
