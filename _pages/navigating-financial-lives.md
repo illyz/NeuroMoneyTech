@@ -8,7 +8,7 @@ classes: wide
   <header class="study-page__header">
     <div class="research-study__meta">
       <span class="research-status research-status--complete">Completed study</span>
-      <span>CHI 2026</span>
+     
     </div>
 
     <p class="study-page__lede">This study explored how autistic adults manage their personal finances, the challenges they encounter, and how they adapt and combine financial technologies, everyday tools, and personal strategies.</p>
