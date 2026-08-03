@@ -59,7 +59,7 @@ contents:
     <span class="research-section-label">PhD overview</span>
     <h2 id="phd-overview-title">Why this research matters</h2>
 
-    < p> Nowadays, digital technologies shape almost every aspect of how we manage money and have become increasingly difficult to avoid. They have become a central part of how people manage, understand, and make decisions about their finances. They can make financial tasks easier, but they can also introduce new barriers and unintended consequences. These barriers can deepen financial exclusion, particularly for people who already experience financial difficulty, inaccessible services, or other forms of inequality.</p>
+    <p>Nowadays, digital technologies shape almost every aspect of how we manage money and have become increasingly difficult to avoid. They have become a central part of how people manage, understand, and make decisions about their finances. They can make financial tasks easier, but they can also introduce new barriers and unintended consequences. These barriers can deepen financial exclusion, particularly for people who already experience financial difficulty, inaccessible services, or other forms of inequality.</p>
 
     <p>This research is working with autistic adults to explore new approaches to money management, treating them as designers of their own solutions, not only as users of technology. Together, we critically examine existing financial tools and services, identify where they do not work well, and explore how they could be designed differently.</p>
 
@@ -80,15 +80,15 @@ contents:
         <div class="research-question-phase">
           <span class="research-question-phase__label">Discover and define</span>
           <ol>
-            <li><strong>Challenges:</strong> What challenges do autistic adults experience with money management and financial technologies?</li>
-            <li><strong>Adaptations:</strong> What strategies and adaptations have autistic adults developed to manage their financial lives?</li>
+            <li><strong>Challenges:</strong> What challenges do autistic adults experience with money management in general and financial technologies in particular?</li>
+            <li><strong>Adaptations:</strong> What coping strategies and adaptations have autistic adults developed to manage their financial lives more effectively?</li>
           </ol>
         </div>
         <div class="research-question-phase">
           <span class="research-question-phase__label">Design and deliver</span>
           <ol start="3">
-            <li><strong>Learning from practice:</strong> What can autistic perspectives and practices teach us about the design of existing financial technologies?</li>
-            <li><strong>Designing differently:</strong> How could financial technologies be different if they were designed from autistic perspectives?</li>
+            <li><strong>Learning from practice:</strong> What can we learn about the design of existing financial technologies by studying and critically assessing them from autistic perspectives and practices?</li>
+            <li><strong>Designing differently:</strong> How could financial technologies be different if designed from autistic perspectives?</li>
           </ol>
         </div>
       </div>
@@ -99,9 +99,7 @@ contents:
     <span class="research-section-label">Research methods</span>
     <h2 id="research-method-title">How the research is carried out</h2>
 
-    <p>The research follows a participatory design ethos, involving people not just as informants, but as active participants shaping the design and direction of the research. This also means involving <i>experts by experience</i> throughout the process: in shaping research questions, in the design of the methods, and the interpretation of findings.</p>
-
-    <p>The methods used have been designed or adapted for the specific needs of participants and the goals of the study.</p>
+    <p>This research uses participatory design, which means carrying out research with people, not simply about them. People with lived experience help shape the questions we ask and the methods we use. Research activities are designed or adapted around participants’ needs and preferences, while supporting the goals of each study.</p>
 
     
     <h3>{{ site.data.methods.collaborative_visual_thinking.title }}</h3>
