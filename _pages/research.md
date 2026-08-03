@@ -59,7 +59,7 @@ contents:
     <span class="research-section-label">PhD overview</span>
     <h2 id="phd-overview-title">Why this research matters</h2>
 
-    <p>Nowadays, digital technologies shape almost every aspect of how we manage money and have become increasingly difficult to avoid. They have become a central part of how people manage, understand, and make decisions about their finances. They can make financial tasks easier, but they can also introduce new barriers and unintended consequences. These barriers can deepen financial exclusion, particularly for people who already experience financial difficulty, inaccessible services, or other forms of inequality.</p>
+    <p>Nowadays, the management of personal finances almost always involves digital technologies, from receiving income and making everyday payments to budgeting, borrowing, saving, and accessing financial support. Digital financial technologies have become a central part of how people manage, understand, and make decisions about their finances. They can make financial tasks easier, but they can also introduce new barriers and unintended consequences. These barriers can deepen financial exclusion, particularly for people who already experience financial difficulty, inaccessible services, or other forms of inequality.</p>
 
     <p>This research is working with autistic adults to explore new approaches to money management, treating them as designers of their own solutions, not only as users of technology. Together, we critically examine existing financial tools and services, identify where they do not work well, and explore how they could be designed differently.</p>
 
@@ -99,13 +99,11 @@ contents:
     <span class="research-section-label">Research methods</span>
     <h2 id="research-method-title">How the research is carried out</h2>
 
-    <p>This research uses participatory design, which means carrying out research with people, not simply about them. People with lived experience help shape the questions we ask and the methods we use. Research activities are designed or adapted around participants’ needs and preferences, while supporting the goals of each study.</p>
+    <p>This research uses participatory design, which means carrying out research with people, not simply about them. People with lived experience help shape the questions asked and the methods used. Research activities are designed or adapted around participants’ needs and preferences, while supporting the goals of each study.</p>
 
     
     <h3>{{ site.data.methods.collaborative_visual_thinking.title }}</h3>
-    <p class="research-study__lead">{{ site.data.methods.collaborative_visual_thinking.summary }}</p>
-
-    <p>The method can support different communication preferences and help participants explore complex topics, relationships, and experiences. It was used in the first study to explore participants' financial lives, the tools they used, and the people involved.</p>
+    <p class="research-study__lead">{{ site.data.methods.collaborative_visual_thinking.summary }} The method can support different communication preferences and help participants explore complex topics, relationships, and experiences. It was used in the first study to explore participants' financial lives, the tools they used, and the people involved.</p>
 
     {% include cvt-examples.html preview=true %}
 
