@@ -1,0 +1,2 @@
+{% assign publication = site.data.publications | where: "id", include.publication | first %}
+<p{% if include.class %} class="{{ include.class }}"{% endif %}>{{ publication.authors | escape }} ({{ publication.year }}). <em>{{ publication.full_title }}</em>. {% if publication.venue_italic %}<em>{{ publication.venue }}</em>{% else %}{{ publication.venue }}{% endif %}{% if publication.publisher %}. {{ publication.publisher }}{% endif %}.</p>

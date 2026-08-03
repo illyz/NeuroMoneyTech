@@ -1,0 +1,14 @@
+{% for publication in site.data.publications %}
+<article class="publication-entry">
+  <div class="publication-meta">{{ publication.type }} · {{ publication.focus }}</div>
+  <h2>{{ publication.title }}</h2>
+  <p class="publication-citation">{{ publication.authors | escape }} ({{ publication.year }}). <em>{{ publication.full_title }}</em>. {% if publication.venue_italic %}<em>{{ publication.venue }}</em>{% else %}{{ publication.venue }}{% endif %}{% if publication.publisher %}. {{ publication.publisher }}{% endif %}. DOI: <a href="https://doi.org/{{ publication.doi }}" target="_blank" rel="noopener noreferrer">{{ publication.doi }}</a></p>
+
+  <details class="publication-abstract">
+    <summary>Read abstract</summary>
+    <div class="abstract-text">{{ publication.abstract }}</div>
+  </details>
+
+  <a class="btn btn--info publication-button" href="https://doi.org/{{ publication.doi }}" target="_blank" rel="noopener noreferrer">Read publication</a>
+</article>
+{% endfor %}

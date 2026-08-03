@@ -1,0 +1,15 @@
+- label: "Spreadsheet"
+  image: "/assets/images/research/cvt-example-spreadsheet.png"
+  alt: "Abstract spreadsheet-style visual artefact with pastel-coded rows, columns, symbols, and short text lines."
+
+- label: "Connected sticky notes"
+  image: "/assets/images/research/cvt-example-sticky-notes.png"
+  alt: "Abstract visual artefact made from pastel sticky notes connected by directional arrows."
+
+- label: "Network diagram"
+  image: "/assets/images/research/cvt-example-network.png"
+  alt: "Abstract network-style visual artefact with differently sized pastel circles arranged in groups and joined by lines and arrows."
+
+- label: "Mind map"
+  image: "/assets/images/research/cvt-example-mind-map.png"
+  alt: "Abstract mind-map visual artefact with a central group of pastel shapes and branching lines extending in several directions."

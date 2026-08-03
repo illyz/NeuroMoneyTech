@@ -1,0 +1,4 @@
+{% assign study = site.data.studies[include.study] %}
+<div class="research-study__meta">
+  <span class="research-status research-status--{{ study.status_class }}">{{ study.status }}</span>
+</div>

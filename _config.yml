@@ -41,10 +41,6 @@ footer:
       icon: "fas fa-university"
       url: "https://orcid.org/0009-0003-7615-5025"   
   
-    - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/illyz"
-
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/helena-lyhme/"

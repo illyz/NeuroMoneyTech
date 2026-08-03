@@ -1,0 +1,84 @@
+research_framework:
+  image: "/assets/images/research/research-framework.svg"
+  width: 960
+  height: 600
+  featured: true
+  alt: "Research framework showing four questions across the Discover, Define, Design, and Deliver stages. A complete text version follows below."
+  caption: "The four research questions across the Discover, Define, Design, and Deliver stages."
+  open_label: "Open full-size image"
+  aria_label: "Open the research framework diagram at full size"
+
+cvt_process:
+  image: "/assets/images/research/collaborative-visual-thinking-process.png"
+  alt: "Diagram of the Collaborative Visual Thinking process. The researcher introduces guiding concepts; the participant prepares and chooses a collaboration canvas; both develop a visual artefact during the research session; and participant feedback informs future sessions."
+  caption: "The Collaborative Visual Thinking process, from introducing the task and preparing for the session to creating a shared visual artefact and gathering feedback."
+  open_label: "Open full-size image"
+  aria_label: "Open the Collaborative Visual Thinking process diagram at full size"
+
+nfl_autism_and_moneywork:
+  image: "/assets/images/research/nfl-autism-and-moneywork.svg"
+  width: 960
+  height: 600
+  featured: true
+  alt: "Diagram showing seven ways autism shaped participants' experiences of moneywork and the strategies, tools, and technologies they used. A complete text version follows below."
+  caption: "How autism shaped experiences of moneywork and the approaches participants developed."
+  open_label: "Open full-size image"
+  aria_label: "Open the diagram about autism and moneywork at full size"
+  transcript_label: "Read this figure as text"
+  transcript:
+    - term: "Analytical skills"
+      description: "using individual talents and interests."
+    - term: "Attention patterns"
+      description: "harnessing hyperfocus and autistic joy."
+    - term: "Control and categorisation"
+      description: "separating accounts and adding friction."
+    - term: "Unpredictability and uncertainty"
+      description: "tracking finances and planning ahead."
+    - term: "Communication differences"
+      description: "careful decision-making and scam awareness."
+    - term: "Cognitive or sensory overload"
+      description: "seeking simplicity and using automation."
+    - term: "Co-occurring conditions and emotional barriers"
+      description: "using positive framing and, at times, “spending to save”."
+
+nfl_challenges_and_strategies:
+  image: "/assets/images/research/nfl-challenges-and-strategies.svg"
+  width: 960
+  height: 600
+  featured: true
+  alt: "Diagram connecting four challenges in moneywork with strategies, tools, and technologies used by participants. A complete text version follows below."
+  caption: "Recurring challenges and examples of the strategies, tools, and technologies participants used."
+  open_label: "Open full-size image"
+  aria_label: "Open the challenges and strategies diagram at full size"
+  transcript_label: "Read this figure as text"
+  transcript:
+    - term: "Emotional barriers and disinterest"
+      description: "positive framing and harnessing autistic joy."
+    - term: "Keeping an overview or getting lost in detail"
+      description: "financial tracking, separating and earmarking money, and adding friction."
+    - term: "Cognitive and mental load"
+      description: "minimalist design, externalising information, and simplifying it."
+    - term: "Maintaining consistency and regularity"
+      description: "automation, goals, lists, check-offs, and gamification."
+
+nfl_design_tensions:
+  image: "/assets/images/research/nfl-design-tensions.svg"
+  width: 960
+  height: 600
+  featured: true
+  alt: "Diagram showing five competing needs that financial technology design may need to balance. A complete text version follows below."
+  caption: "Five tensions that illustrate why a single design approach cannot work for everyone."
+  open_label: "Open full-size image"
+  aria_label: "Open the financial technology design tensions diagram at full size"
+  transcript_label: "Read this figure as text"
+  transcript:
+    - term: "Minimalism and aesthetics"
+      description: "reducing visual clutter can support focus, while visual stimulation can make tasks feel approachable and engaging."
+    - term: "Simplification and depth"
+      description: "some people want only essential information; others need detail before making a decision."
+    - term: "Automation and control"
+      description: "automation can make regular tasks easier, while close involvement can provide reassurance and control."
+    - term: "Removing and adding friction"
+      description: "ease can reduce effort, while intentional barriers can help prevent unintended spending."
+    - term: "Gamification and over-fixation"
+      description: "goals, lists, and progress can motivate, but can also encourage an unhealthy focus on completing things perfectly."

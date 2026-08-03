@@ -1,0 +1,19 @@
+{% if include.preview %}
+  {% assign visual_artefacts = site.data.visual_artefacts | slice: 0, 2 %}
+{% else %}
+  {% assign visual_artefacts = site.data.visual_artefacts %}
+{% endif %}
+<div class="cvt-example-grid{% if include.preview %} cvt-example-grid--preview{% endif %}" role="group" aria-label="Examples of Collaborative Visual Thinking artefacts">
+  {% for example in visual_artefacts %}
+    <figure class="cvt-example">
+      <a href="{{ example.image | relative_url }}" aria-label="Open the {{ example.label | downcase }} example at full size">
+        <img src="{{ example.image | relative_url }}" alt="{{ example.alt }}" loading="lazy" decoding="async">
+      </a>
+      {% if include.preview %}
+        {% if forloop.first %}<figcaption>Example visual artefacts</figcaption>{% endif %}
+      {% else %}
+        <figcaption>{{ example.label }}</figcaption>
+      {% endif %}
+    </figure>
+  {% endfor %}
+</div>

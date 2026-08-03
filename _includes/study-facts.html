@@ -1,0 +1,9 @@
+{% assign study = site.data.studies[include.study] %}
+<div class="research-at-a-glance" aria-label="Study at a glance">
+  {% for fact in study.facts %}
+    <div>
+      <strong>{{ fact.value }}</strong>
+      <span>{% if fact.url %}<a href="{{ fact.url | relative_url }}">{{ fact.label }}</a>{% else %}{{ fact.label }}{% endif %}</span>
+    </div>
+  {% endfor %}
+</div>

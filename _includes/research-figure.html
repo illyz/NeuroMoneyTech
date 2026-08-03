@@ -1,0 +1,23 @@
+{% assign figure = site.data.research_figures[include.figure] %}
+<figure class="research-figure{% if figure.featured %} research-figure--featured{% endif %}">
+  <a href="{{ figure.image | relative_url }}" target="_blank" rel="noopener noreferrer" aria-label="{{ figure.aria_label }}">
+    <img src="{{ figure.image | relative_url }}"{% if figure.width %} width="{{ figure.width }}"{% endif %}{% if figure.height %} height="{{ figure.height }}"{% endif %} loading="lazy" alt="{{ figure.alt }}">
+  </a>
+  <figcaption>
+    <span>{{ figure.caption }}</span>
+    <a href="{{ figure.image | relative_url }}" target="_blank" rel="noopener noreferrer">{{ figure.open_label }}</a>
+  </figcaption>
+</figure>
+
+{% if figure.transcript %}
+<details class="research-transcript">
+  <summary>{{ figure.transcript_label }}</summary>
+  <div class="research-transcript__content study-figure-transcript">
+    <ul>
+      {% for item in figure.transcript %}
+        <li><strong>{{ item.term }}:</strong> {{ item.description }}</li>
+      {% endfor %}
+    </ul>
+  </div>
+</details>
+{% endif %}

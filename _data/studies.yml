@@ -1,0 +1,21 @@
+navigating_financial_lives:
+  title: "Navigating Financial Lives"
+  status: "Completed study"
+  status_class: "complete"
+  page: "/research/navigating-financial-lives/"
+  summary: "This study explored how autistic adults manage their personal finances, the challenges they encounter, and how they adapt and combine financial technologies, everyday tools, and personal strategies."
+  facts:
+    - value: "20"
+      label: "Autistic adults"
+    - value: "Location"
+      label: "Online / UK based"
+    - value: "Interviews"
+      label: "Collaborative Visual Thinking"
+      url: "/research/collaborative-visual-thinking/"
+
+autistic_joy:
+  title: "Designing for Autistic Joy in Everyday Money Practices"
+  status: "In progress"
+  status_class: "current"
+  page: "/research/autistic-joy/"
+  summary: "This study explores how autistic joy could provide a different starting point for thinking about money and financial technology."
