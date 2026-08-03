@@ -3,7 +3,7 @@ navigating_financial_lives:
   status: "Completed study"
   status_class: "complete"
   page: "/research/navigating-financial-lives/"
-  summary: "This study explored how autistic adults manage their personal finances, the challenges they encounter, and how they adapt and combine financial technologies, everyday tools, and personal strategies."
+  summary: "This study explored how autistic adults in the UK managed their personal finances and used financial technologies in everyday life. Participants described both challenges and strengths connected to their autism, and showed how they combined and adapted different tools, apps, spreadsheets, reminders, routines, and other strategies to create systems that worked for them. The findings highlight that there is no single way of managing money and that financial technologies should offer greater flexibility, choice, and personal control."
   facts:
     - value: "20"
       label: "Autistic adults"
@@ -18,4 +18,4 @@ autistic_joy:
   status: "In progress"
   status_class: "current"
   page: "/research/autistic-joy/"
-  summary: "This study explores how autistic joy could provide a different starting point for thinking about money and financial technology."
+  summary: "Managing everyday finances includes things such as making payments, managing accounts, and handling household budgets. These responsibilities can often feel stressful or overwhelming, placing emotional, sensory, and mental demands on people. In our previous study, we found that bringing in positive and joyful elements helped some autistic people manage them more easily. In this study, we would like to explore this further and dive deeper into ‘Autistic Joy’, explore what it means to Autistic people, and work together to come up with ideas for new tools, strategies and ways of managing money, inspired by Autistic Joy" 
