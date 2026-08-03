@@ -99,7 +99,7 @@ contents:
     <span class="research-section-label">Research methods</span>
     <h2 id="research-method-title">How the research is carried out</h2>
 
-    <p>This research uses participatory design, which means carrying out research with people, not simply about them. People with lived experience help shape the questions asked and the methods used. Research activities are designed or adapted around participants’ needs and preferences, while supporting the goals of each study.</p>
+    <p>This research uses <strong>participatory design</strong>, which means carrying out research with people, not simply about them. People with lived experience help shape the questions asked and the methods used. Research activities are designed or adapted around participants’ needs and preferences, while supporting the goals of each study.</p>
 
     
     <h3>{{ site.data.methods.collaborative_visual_thinking.title }}</h3>
@@ -121,10 +121,6 @@ contents:
 
     {% include study-facts.html study="navigating_financial_lives" %}
 
-    <p>Interviews with 20 autistic adults highlighted both challenges and strengths associated with money management. Participants described creating highly individual systems involving bank accounts, spreadsheets, reminders, automation, routines, and other forms of support.</p>
-
-    <p>The findings show that there is no single autistic way of managing money. Financial technologies should therefore offer flexibility and personal control rather than assuming that one approach will work for everyone.</p>
-
     <div class="research-actions">
       <a class="research-action research-action--primary" href="{{ site.data.studies.navigating_financial_lives.page | relative_url }}">Explore the study and findings</a>
       <a class="research-action research-action--secondary" href="{{ '/publications/' | relative_url }}">View the publication</a>
@@ -138,7 +134,6 @@ contents:
       <p class="research-study__lead">{{ site.data.studies.autistic_joy.summary }}</p>
     </header>
 
-    <p>Rather than focusing only on difficulties and barriers, the research considers enjoyable, meaningful, and affirming aspects of autistic money practices. It asks what these experiences could teach us about designing financial tools and systems differently.</p>
 
     <div class="research-update" role="note" aria-label="Current study status">
       <div><strong>Research is underway</strong><p>There are no findings to share yet. Updates will be added as the study progresses.</p></div>
