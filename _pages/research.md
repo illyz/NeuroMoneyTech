@@ -28,6 +28,18 @@ contents:
     <section class="research-featured" aria-labelledby="featured-research-title">
       <span id="featured-research-title">Featured research</span>
       <div class="research-featured__links">
+
+       <a class="research-featured__link" href="{{ '/research/navigating-financial-lives/' | relative_url }}">
+          <span class="research-featured__image research-featured__image--contain" aria-hidden="true">
+            <img src="{{ '/assets/images/research/nfl-moneywork-examples.svg' | relative_url }}" width="520" height="585" alt="" loading="lazy">
+          </span>
+          <span class="research-featured__copy">
+            <span>Completed study</span>
+            <strong>Navigating Financial Lives</strong>
+          </span>
+          <span class="research-featured__arrow" aria-hidden="true">→</span>
+        </a>
+        
         <a class="research-featured__link" href="{{ '/research/collaborative-visual-thinking/' | relative_url }}">
           <span class="research-featured__image" aria-hidden="true">
             <img src="{{ '/assets/images/research/cvt-example-sticky-notes.png' | relative_url }}" width="1448" height="1086" alt="" loading="lazy">
@@ -38,17 +50,7 @@ contents:
           </span>
           <span class="research-featured__arrow" aria-hidden="true">→</span>
         </a>
-
-        <a class="research-featured__link" href="{{ '/research/navigating-financial-lives/' | relative_url }}">
-          <span class="research-featured__image research-featured__image--contain" aria-hidden="true">
-            <img src="{{ '/assets/images/research/nfl-moneywork-examples.svg' | relative_url }}" width="520" height="585" alt="" loading="lazy">
-          </span>
-          <span class="research-featured__copy">
-            <span>Completed study</span>
-            <strong>Navigating Financial Lives</strong>
-          </span>
-          <span class="research-featured__arrow" aria-hidden="true">→</span>
-        </a>
+        
       </div>
     </section>
   </div>
