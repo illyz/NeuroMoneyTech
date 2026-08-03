@@ -59,7 +59,7 @@ contents:
     <span class="research-section-label">PhD overview</span>
     <h2 id="phd-overview-title">Why this research matters</h2>
 
-    <p>Digital technologies nowadays shape almost every part of managing money. They can make financial tasks easier, but they can also introduce new barriers and unintended consequences. These barriers can deepen financial exclusion, particularly for people who already experience financial difficulty, inaccessible services, or other forms of inequality.</p>
+    < p> Nowadays, digital technologies shape almost every aspect of how we manage money and have become increasingly difficult to avoid. They have become a central part of how people manage, understand, and make decisions about their finances. They can make financial tasks easier, but they can also introduce new barriers and unintended consequences. These barriers can deepen financial exclusion, particularly for people who already experience financial difficulty, inaccessible services, or other forms of inequality.</p>
 
     <p>This research is working with autistic adults to explore new approaches to money management, treating them as designers of their own solutions, not only as users of technology. Together, we critically examine existing financial tools and services, identify where they do not work well, and explore how they could be designed differently.</p>
 
