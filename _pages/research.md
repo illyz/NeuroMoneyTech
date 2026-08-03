@@ -70,7 +70,7 @@ contents:
   <section class="research-framework" id="research-questions" aria-labelledby="research-framework-title">
     <span class="research-section-label">Research questions</span>
     <h2 id="research-framework-title">From understanding current experiences to designing differently</h2>
-    <p>The PhD is organised around four connected questions. They move from understanding autistic adults' experiences and adaptations to exploring what financial technologies could become.</p>
+    <p>The PhD is organised around four connected questions. They move from understanding autistic adults' experiences and adaptations to exploring what financial technologies could become through participatory design.</p>
 
     {% include research-figure.html figure="research_framework" %}
 
@@ -103,7 +103,7 @@ contents:
 
     
     <h3>{{ site.data.methods.collaborative_visual_thinking.title }}</h3>
-    <p class="research-study__lead">{{ site.data.methods.collaborative_visual_thinking.summary }} The method can support different communication preferences and help participants explore complex topics, relationships, and experiences. It was used in the first study to explore participants' financial lives, the tools they used, and the people involved.</p>
+    <p class="research-study__lead">{{ site.data.methods.collaborative_visual_thinking.summary }}</p>
 
     {% include cvt-examples.html preview=true %}
 
