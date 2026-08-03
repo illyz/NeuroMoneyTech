@@ -27,22 +27,22 @@ excerpt: "PhD research exploring financial technologies from autistic perspectiv
 
   <section class="home-focus" aria-labelledby="research-focus-title">
     <span class="home-kicker">Research focus</span>
-    <h2 id="research-focus-title">Three connected areas</h2>
+    <h2 id="research-focus-title">Three main areas</h2>
     <div class="home-focus__list" role="list">
       <article role="listitem">
         <span class="home-focus__number" aria-hidden="true">01</span>
-        <h3>Autistic financial lives</h3>
-        <p>Understanding the experiences, challenges, strengths, and everyday practices involved in managing money.</p>
+        <h3>Autism and Neurodiversity</h3>
+        <p>Examining technology through a neurodiversity lens and bringing autistic perspectives and lived experiences into its design.</p>
       </article>
       <article role="listitem">
         <span class="home-focus__number" aria-hidden="true">02</span>
-        <h3>Adapting technology</h3>
-        <p>Examining how autistic adults combine, personalise, and repurpose financial tools to make them work.</p>
+        <h3>Moneywork and Financial Technologies</h3>
+        <p>Understanding how people make money work in everyday life, and exploring how financial technologies could better support their needs, practices, and priorities.</p>
       </article>
       <article role="listitem">
         <span class="home-focus__number" aria-hidden="true">03</span>
-        <h3>Designing differently</h3>
-        <p>Exploring how autistic perspectives, practices, and joy can inform more inclusive financial technologies.</p>
+        <h3>Participatory Design</h3>
+        <p>Actively involving people in technology design, learning from their everyday practices, and developing more inclusive ways of designing together.</p>
       </article>
     </div>
   </section>
