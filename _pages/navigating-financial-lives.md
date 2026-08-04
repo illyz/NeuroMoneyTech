@@ -101,7 +101,7 @@ Participants rarely relied on one banking app or one standard approach. They com
 
 <ul>
   <li>
-    <strong>Positive framing and harnessing autistic joy:</strong>
+    <strong>Positive framing and harnessing Autistic joy:</strong>
     Some participants made moneywork more approachable by actively including elements that brought them joy: creating colourful spreadsheets and personalised systems, exploring financial details, researching the best deals, or connecting saving and investing with their interests.
   </li>
 
@@ -120,6 +120,13 @@ Participants rarely relied on one banking app or one standard approach. They com
     Automatic payments, transfers, and reminders reduced the need to remember recurring tasks. Some participants also used goals, checklists, savings challenges, and other game-like features to make progress more visible and rewarding.
   </li>
 </ul>
+
+
+{% include takeaway.html title="Finding" label="Finding" text="Many of these challenges and strategies may be familiar to autistic and non-autistic people alike. What often differed was their intensity, how frequently they occurred, and the extent to which they became barriers." %}
+
+For example, high-contrast colours, frequent changes, and pop-ups on a banking website might be distracting or annoying for some people, but could make the website unusable for someone experiencing sensory overload. Similarly, uncertainty about whether there is enough money to make a purchase might cause brief concern for one person, but create significant anxiety or prevent someone else from completing the task.
+
+<strong>Design changes that reduce these barriers can therefore benefit many people, but may be essential for some.</strong>
 
 </section>
 
