@@ -99,7 +99,7 @@ contents:
     <span class="research-section-label">Research methods</span>
     <h2 id="research-method-title">How the research is carried out</h2>
 
-    <p>This research uses <strong>participatory design</strong>, which means carrying out research with people, not simply about them. People with lived experience help shape the questions asked and the methods used. Research activities are designed or adapted around participants’ needs and preferences, while supporting the goals of each study.</p>
+    <p>This research is built on principles of <strong>Participatory Design</strong>, which means carrying out design research with people, not simply about them. People with lived experience not only help design new approaches and tools, but also shape the questions asked and the methods used. Research activities are designed or adapted around participants’ needs and preferences, while supporting the goals of each study.</p>
 
     
     <h3>{{ site.data.methods.collaborative_visual_thinking.title }}</h3>
