@@ -146,7 +146,7 @@ However, the findings do not point to one ideal financial interface. A feature t
 
     <li>
       <strong>Customisable information and design:</strong>
-      Offer layered access to detail and let people adjust the visual style—from calm and minimalist to colourful and joyful. 
+      Offer layered access to detail and let people adjust the visual style, from calm and minimalist to colourful and joyful. 
     </li>
 
     <li>
