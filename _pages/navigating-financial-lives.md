@@ -40,7 +40,7 @@ This study involved interviews with 20 autistic adults living in the UK. The int
 
 The study considered both challenges and strengths. It also looked closely at the creative ways participants changed tools, combined technologies, and built personal systems that worked for them. 
 
-{% include takeaway.html title="Main finding" label="Main finding" text="There is no single best way to manage money. Financial tasks often involve significant cognitive, sensory, and emotional demands, and autistic adults navigate these in different ways. Many creatively adapt, “hack,” and repurpose technologies—combining tools or using them in unexpected ways—to build personal systems around their individual strengths and preferences." %}
+{% include takeaway.html title="Main finding" label="Main finding" text="There is no single best way to manage money. Participants creatively adapted, combined, 'hacked' and repurposed technologies to build personal systems around their individual strengths and preferences." %}
 
 </section>
 
