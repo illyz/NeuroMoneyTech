@@ -100,20 +100,30 @@ Some approaches reduced demands: automating a payment could remove the need to r
 
 {% include research-figure.html figure="nfl_challenges_and_strategies" %}
 
-{% include takeaway.html title="Why this matters" label="Why these adaptations matter" text="Participants were not simply adapting themselves to financial technology. They were actively adapting technology and their wider financial environment to suit their lives." %}
+{% include takeaway.html title="Finding" label="Finding" text="Participants were not simply adapting themselves to financial technology. They were actively adapting technology and their wider financial environment to suit their lives." %}
+
+<p>Participants responded to the challenges of moneywork by adapting—and sometimes “hacking”—tools and technologies to suit their own needs. Examples included:</p>
 
 <ul>
+  <li>
+    <strong>Positive framing and harnessing autistic joy:</strong>
+    Some participants made moneywork more approachable by actively including elements that brought them joy: creating colourful spreadsheets and personalised systems, exploring financial details, researching the best deals, or connecting saving and investing with their interests.
+  </li>
 
-<li><strong>Creating (digital) "Boxes" for Money:</strong> To avoid seeing just one big number in a bank account, many people used digital "pots" or separate accounts to put money into clear categories (like "bills" vs "fun money")</li>
+  <li>
+    <strong>Financial tracking, separating money, and adding friction:</strong>
+    Participants used spreadsheets and other tools to keep track of their finances. Many divided money between separate accounts or digital pots—effectively creating “boxes” for bills, savings, and spending. Some also made money deliberately harder to access, for example by keeping money in separate accounts, deleting apps or using accounts with withdrawal restrictions.
+  </li>
 
-<li><strong>Turning Tasks into Games:</strong> Some used gamification—like savings challenges or checklists to make managing money feel rewarding and fun rather than scary.</li>
+  <li>
+    <strong>Reducing cognitive and mental load:</strong>
+    Participants looked for simple, uncluttered tools and found ways to move information out of their heads. These tools could be digital or physical: Notes, calendars, lists, spreadsheets, and reminders helped them organise information and make financial tasks easier to manage.
+  </li>
 
-<li><strong>Harnessing "Autistic Joy":</strong> Many added joyful elements to their finances by making spreadsheets colourful and 'pretty', by diving deep into the details and creating personalised systems, or researching the best deals and investing in areas of interest.</li>
-
-<li><strong>Adding "Good" Obstacles:</strong> Since digital banking makes it too easy to spend money instantly, some people deliberately make things harder for themselves. They deleted certain apps or used accounts that were harder to withdraw from to help control impulsive spending.</li>
-
-<li><strong>Using Strengths:</strong> Many used their ability to focus on small details and analytical thinking to create highly personalised systems that gave them a sense of control. Others used their communication and people skills to get financial advice from their network.</li>
-
+  <li>
+    <strong>Supporting consistency through automation and gamification:</strong>
+    Automatic payments, transfers, and reminders reduced the need to remember recurring tasks. Some participants also used goals, checklists, savings challenges, and other game-like features to make progress more visible and rewarding.
+  </li>
 </ul>
 
 </section>
