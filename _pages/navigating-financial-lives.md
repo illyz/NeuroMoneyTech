@@ -134,9 +134,9 @@ For example, high-contrast colours, frequent changes, and pop-ups on a banking w
 ## Inclusive design needs to balance competing needs {#design-implications-title}
 
 
-<strong>Design changes that address these barriers can therefore benefit many people, but may be essential for some.</strong>
+<strong>Design changes that address these barriers can benefit many people, but may be essential for some.</strong>
 
-However, the findings do not point to one ideal financial interface. A feature that reduces demands for one person may remove useful information or control for someone else. The same person's needs may also change across tasks or over time. Financial technologies therefore need to actively consider and find a balance across several <strong>Design Tensions"</strong>.
+However, the findings do not point to one ideal financial interface. A feature that reduces demands for one person may remove useful information or control for someone else. The same person's needs may also change across tasks or over time. Financial technologies therefore need to actively consider and find a balance across several <strong>Design Tensions</strong>.
 
 {% include research-figure.html figure="nfl_design_tensions" %}
 
