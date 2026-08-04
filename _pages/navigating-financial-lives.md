@@ -95,14 +95,9 @@ Participants' relationships with money were also influenced by financial confide
 
 Participants rarely relied on one banking app or one standard approach. They combined different tools, accounts, spreadsheets, notebooks, reminders, automation, lists, colour coding, and routines into personal systems.
 
-Some approaches reduced demands: automating a payment could remove the need to remember it. Others deliberately added friction: moving money to a harder-to-access account could help prevent unintended spending.
-
-
 {% include research-figure.html figure="nfl_challenges_and_strategies" %}
 
 {% include takeaway.html title="Finding" label="Finding" text="Participants were not simply adapting themselves to financial technology. They were actively adapting technology and their wider financial environment to suit their lives." %}
-
-<p>Participants responded to the challenges of moneywork by adapting—and sometimes “hacking”—tools and technologies to suit their own needs. Examples included:</p>
 
 <ul>
   <li>
