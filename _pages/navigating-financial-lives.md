@@ -140,32 +140,23 @@ However, the findings do not point to one ideal financial interface. A feature t
 
 {% include research-figure.html figure="nfl_design_tensions" %}
 
-### What financial services can learn
+### What financial services can learn 
 
-  <ul class="design-tensions">
+  <ul class="Financial Services Design Recommendations">
 
     <li>
-      <strong>Simplicity and detail:</strong>
-      Simple screens can reduce overload, but too little information may create
-      uncertainty. Let people choose how much detail they see.
+      <strong>Customisable information and design:</strong>
+      Offer layered access to detail and let people adjust the visual style—from calm and minimalist to colourful and joyful. 
     </li>
 
     <li>
-      <strong>Calm and joyful design:</strong>
-      Some people prefer muted, minimalist interfaces, while others find colour
-      and personalisation motivating. Offer visual choices and reduce unwanted noise.
+      <strong>Balance convenience with protection:</strong>
+      Fast transactions can be helpful, but people should be able to add pauses, limits, or extra steps to protect their money.
     </li>
 
     <li>
-      <strong>Convenience and protective friction:</strong>
-      Quick transactions can be useful, but may also make impulsive spending
-      harder to manage. Allow people to add their own safeguards.
-    </li>
-
-    <li>
-      <strong>Motivation and fixation:</strong>
-      Goals, checklists, and savings challenges can make moneywork rewarding, but
-      should include clear “good enough” stopping points.
+      <strong>Reward progress, not perfection:</strong>
+      Goals, checklists, and savings challenges can support motivation, while clear “good enough” markers can prevent them from becoming demanding or difficult to stop.
     </li>
 
     <li>
