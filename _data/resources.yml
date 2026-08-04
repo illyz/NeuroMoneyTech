@@ -1,6 +1,53 @@
 resources_row:
-  - title: "Managing Money e-learning module"
-    excerpt: "This is a free of charge module by the National Autistic Society and covers a wide range of money-related topics."
+  - title: "Autistica"
+    categories:
+      - general
+    excerpt: "Autistica is a UK autism research and campaigning charity. Its website shares current research projects and evidence-based resources created with and for autistic people."
+    url: "https://www.autistica.org.uk/"
+    btn_label: "Explore"
+    related_url: "/research/navigating-financial-lives/"
+    related_before: "Participants for the"
+    related_label: "Navigating Financial Lives study"
+    related_after: "were recruited through Autistica."
+
+  - title: "National Autistic Society: Managing Money e-learning module"
+    categories:
+      - money
+    excerpt: "This free, interactive module was created by MoneySuperMarket in association with the National Autistic Society. It uses autistic people's real-life experiences to explore strengths and challenges in managing money, alongside practical topics such as opening a bank account and using a cashpoint. It takes around 45–90 minutes and can be completed all at once or section by section."
     url: "https://www.autism.org.uk/learn/what-we-do/training/managing-money"
     btn_label: "Explore"
 
+  - title: "Autism Central: Managing money guidance"
+    categories:
+      - money
+    excerpt: "Autism Central is a national peer education programme commissioned by NHS England. Its managing-money guidance introduces budgeting, managing money while living independently, banking and insurance, and staying safe from financial exploitation. It also links to further sources of practical advice and support for autistic people, parents and carers."
+    url: "https://www.autismcentral.nhs.uk/guidance/managing-money"
+    btn_label: "Read the guidance"
+
+  - title: "Mad About Money by Maddy Alexander-Grout"
+    categories:
+      - money
+    excerpt: "Maddy Alexander-Grout is autistic and has ADHD. In Mad About Money: Managing Finances (and Life) with ADHD, she combines lived experience with practical approaches to money, spending and everyday life for neurodivergent people."
+    url: "https://maddyverse.co.uk/books"
+    btn_label: "Learn about the book"
+
+  - title: "Neuroqueer: An Introduction"
+    categories:
+      - general
+    excerpt: "In this accessible introduction, Dr Nick Walker explains neuroqueering as a way of challenging restrictive norms and creating more space for neurodivergent ways of being, thinking and expressing ourselves."
+    url: "https://neuroqueer.com/neuroqueer-an-introduction/"
+    btn_label: "Read the introduction"
+
+  - title: "Unmasking Autism by Dr Devon Price"
+    categories:
+      - general
+    excerpt: "Unmasking Autism explores autistic masking, why people may hide parts of themselves to meet social expectations, and ways of understanding and embracing an autistic identity."
+    url: "https://drdevonprice.com/books"
+    btn_label: "Learn about the book"
+
+  - title: "The Autistic Woman"
+    categories:
+      - general
+    excerpt: "Created by autistic writer Alex Morgan following her diagnosis at 58, this website shares information, reflections and resources about autism, diagnosis, masking and autistic joy. Despite its title, it is intended for autistic and questioning people of any age and gender."
+    url: "https://theautisticwoman.co.uk/"
+    btn_label: "Explore the website"
