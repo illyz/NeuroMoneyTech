@@ -1317,16 +1317,12 @@ h4 {
 }
 
 .resource-filters {
-  display: grid;
-  grid-template-columns: max-content minmax(0, 1fr);
-  gap: 0.45rem 0.75rem;
-  align-items: center;
   max-width: 860px;
   margin-top: 2rem;
 }
 
 .resource-filters__label {
-  margin: 0;
+  margin: 0 0 0.55rem;
   color: var(--nmt-text);
   font-size: 0.92rem;
   font-weight: 700;
@@ -1368,11 +1364,11 @@ h4 {
 }
 
 .resource-filter-status {
-  grid-column: 1 / -1;
   min-height: 1.5em;
-  margin: 0.1rem 0 0;
+  margin: 0.45rem 0 0;
   color: var(--nmt-muted);
-  font-size: 0.74rem;
+  font-size: 0.68rem;
+  font-style: italic;
   line-height: 1.4;
 }
 
@@ -1414,14 +1410,6 @@ h4 {
 }
 
 @media (max-width: 700px) {
-  .resource-filters {
-    grid-template-columns: 1fr;
-  }
-
-  .resource-filter-status {
-    grid-column: 1;
-  }
-
   .home-focus__list,
   .home-researcher,
   .research-page__quick-start,
