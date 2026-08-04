@@ -142,12 +142,171 @@ However, the findings do not point to one ideal financial interface. A feature t
 
 ### What financial services can learn
 
-- Offer flexible views, including both simplified and detailed information.
-- Let people choose which tasks are automated and which remain under their direct control.
-- Allow people to add or remove friction depending on what they are trying to achieve.
-- Make motivational features optional and adjustable.
-- Support personal systems across multiple accounts, tools, and routines rather than assuming one app should do everything.
-{: .study-page__recommendations }
+  <ol class="design-guidance__list">
+ 
+    <li>
+      <h3>Allow visual and sensory personalisation</h3>
+
+      <p>
+        Sensory needs and aesthetic preferences vary. An interface that feels
+        calming to one person may be distracting or inaccessible to another.
+      </p>
+
+      <ul>
+        <li>
+          <strong>Offer visual choices:</strong>
+          Let people adjust colours, contrast, layout, and the amount of
+          information on screen. This could include choosing between a muted,
+          minimalist interface and a more colourful or playful one.
+        </li>
+
+        <li>
+          <strong>Make space for autistic joy:</strong>
+          Some participants found motivation and enjoyment in making their
+          financial systems colourful, attractive, or highly personalised.
+          Customisation can help transform moneywork from a source of dread into
+          something engaging and empowering.
+        </li>
+
+        <li>
+          <strong>Reduce unwanted visual noise:</strong>
+          Limit disruptive notifications, bright animations, pop-ups, and
+          unnecessary advertisements that may contribute to sensory or cognitive
+          overload.
+        </li>
+      </ul>
+    </li>
+    <li>
+    
+      <h3>Balance detail with simplicity</h3>
+
+      <p>
+        People have different needs when viewing financial information. Complex
+        screens can feel overwhelming, while too little detail can create
+        uncertainty or anxiety.
+      </p>
+
+      <ul>
+        <li>
+          <strong>Layer information:</strong>
+          Provide a simple view containing essential information, with the option
+          to explore more detailed breakdowns. Allow people to customise how much
+          information they see.
+        </li>
+
+        <li>
+          <strong>Avoid relying on “one big number”:</strong>
+          A single account balance may not show how much money is already needed
+          for bills and other commitments. Features such as separate accounts or
+          digital pots can help people distinguish between money that is safe to
+          spend and money set aside for a particular purpose.
+        </li>
+      </ul>
+    </li>
+
+
+    <li>
+      <h3>Provide protective friction</h3>
+
+      <p>
+        Financial technologies often aim to make every transaction as quick and
+        effortless as possible. However, some participants—particularly those
+        with co-occurring ADHD—found that instant access to money could make
+        impulsive spending harder to manage.
+      </p>
+
+      <ul>
+        <li>
+          <strong>Allow people to add their own safeguards:</strong>
+          Give users the option to slow down withdrawals, add confirmation steps,
+          limit certain transfers, or make savings temporarily harder to access.
+          These features can help people maintain financial boundaries.
+        </li>
+
+        <li>
+          <strong>Make automation transparent:</strong>
+          Automation should be optional, adjustable, and easy to understand.
+          Automatic payments and transfers can reduce the work of remembering
+          tasks, but may also create uncertainty or unexpected overdrafts if
+          people cannot clearly see or control what is happening.
+        </li>
+      </ul>
+    </li>
+
+    <li>
+      <h3>Use gamification carefully</h3>
+
+      <p>
+        Savings challenges, progress trackers, and ticking tasks off a list can
+        make moneywork more motivating and rewarding. However, these features
+        should be designed carefully.
+      </p>
+
+      <ul>
+        <li>
+          <strong>Support “good enough” stopping points:</strong>
+          Clear completion markers can help people recognise when a task is
+          finished. This may reduce the risk of progress tracking becoming
+          stressful, time-consuming, or difficult to stop.
+        </li>
+      </ul>
+    </li>
+
+    <li>
+      <h3>Recognise social relationships and support networks</h3>
+
+      <p>
+        Moneywork often happens within relationships and networks of mutual
+        support. However, many financial technologies are designed around the
+        assumption that one person manages their money entirely independently.
+      </p>
+
+      <ul>
+        <li>
+          <strong>Support interdependence:</strong>
+          Provide safe and flexible ways to split bills, share selected account
+          information, manage joint responsibilities, and give or receive help
+          with financial tasks.
+        </li>
+
+        <li>
+          <strong>Protect people from financial exploitation:</strong>
+          Include safeguards against financial pressure, manipulation, or abuse
+          from people within someone’s personal network—not only fraud committed
+          by strangers.
+        </li>
+      </ul>
+    </li>
+
+    <li>
+      <h3>Keep interfaces consistent and easy to access</h3>
+
+      <p>
+        Predictable and straightforward designs can reduce the cognitive effort
+        involved in everyday moneywork.
+      </p>
+
+      <ul>
+        <li>
+          <strong>Prioritise consistency:</strong>
+          Avoid frequent or unnecessary changes to layouts, wording, and
+          navigation. When changes are needed, explain them clearly and allow
+          people time to adjust.
+        </li>
+
+        <li>
+          <strong>Simplify account access and recovery:</strong>
+          Forgotten passwords and complicated security processes can become
+          major barriers, particularly for people experiencing executive
+          functioning difficulties. Account recovery should be secure, clear,
+          and accessible.
+        </li>
+      </ul>
+    </li>
+
+  </ol>
+
+</section>
 
 </section>
 
