@@ -59,7 +59,7 @@ contents:
     <span class="research-section-label">PhD overview</span>
     <h2 id="phd-overview-title">Why this research matters</h2>
 
-    <p> Managing money today often means using digital tools, such as banking apps, online accounts, payment cards, and websites. These tools can make financial tasks quicker and easier, but as more services go fully digital, people have less choice about whether to use them. From receiving income and making everyday payments to budgeting, borrowing, saving, and accessing financial support, digital financial technologies have become essential.</p>
+    <p> Digital technologies are now part of almost every aspect of managing money - from receiving income and making payments to budgeting, borrowing, saving, and accessing financial support. Tools such as banking apps, contactless payment, and online accounts can make these tasks quicker and easier. However, as more financial services become available primarily or exclusively online, people may have little choice but to use them - raising important questions about accessibility and the risk of deepening existing financial inequalities.</p>
 
     <p>This research is working with autistic adults to explore new approaches to money management, treating them as designers of their own solutions, not only as users of technology. Together, we critically examine existing financial tools and services, identify where they do not work well, and explore how they could be designed differently.</p>
 
