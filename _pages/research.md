@@ -111,7 +111,6 @@ contents:
       <a class="research-action research-action--primary" href="{{ site.data.methods.collaborative_visual_thinking.page | relative_url }}">Learn about the method and see more examples</a>
        <a class="research-action research-action--secondary" target=”_blank” href="https://doi.org/10.1093/iwc/iwag026">View the publication</a>
     </div>
-    </div>
   </section>
 
   <section class="research-study research-study--complete" id="completed-study">
