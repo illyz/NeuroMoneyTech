@@ -32,7 +32,7 @@ excerpt: "PhD research exploring financial technologies from autistic perspectiv
       <article role="listitem">
         <span class="home-focus__number" aria-hidden="true">01</span>
         <h3>Autism and Neurodiversity</h3>
-        <p>This research draws on <b>neuroqueer technoscience</b>, which explores how Autistic and other neurodivergent people adapt, repurpose, and reinvent technologies rather than simply adjusting themselves to technologies designed around neurotypical expectations.</p>
+        <p>This research draws on neuroqueer technoscience, which explores how Autistic and other neurodivergent people adapt, repurpose, and reinvent technologies rather than adjusting themselves to technologies designed around neurotypical expectations.</p>
       </article>
       <article role="listitem">
         <span class="home-focus__number" aria-hidden="true">02</span>
