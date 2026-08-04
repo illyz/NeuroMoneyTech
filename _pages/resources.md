@@ -5,7 +5,7 @@ permalink: /resources/
 
 <div class="resources-page">
   <p class="page-intro">This is a collection of resources I came across during my research and thought might be helpful to visitors to this website.</p>
-  <p class="page-note">I have not reviewed every resource in full, so including something here does not mean that I endorse everything it says.</p>
+  <p class="page-note"><strong>I have not reviewed every resource in full, so including something here does not mean that I endorse everything it says.</strong></p>
 
   <div class="resource-filters" data-resource-filters>
     <p class="resource-filters__label" id="resource-filter-label">Filter by topic</p>

@@ -1321,8 +1321,8 @@ h4 {
   margin-top: 2rem;
 }
 
-.resource-filters__label {
-  margin: 0 0 0.55rem;
+.resources-page .resource-filters__label {
+  margin: 0 0 0.25rem;
   color: var(--nmt-text);
   font-size: 0.92rem;
   font-weight: 700;
@@ -1363,7 +1363,7 @@ h4 {
   color: var(--nmt-text);
 }
 
-.resource-filter-status {
+.resources-page .resource-filter-status {
   min-height: 1.5em;
   margin: 0.45rem 0 0;
   color: var(--nmt-muted);
