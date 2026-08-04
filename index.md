@@ -32,17 +32,17 @@ excerpt: "PhD research exploring financial technologies from autistic perspectiv
       <article role="listitem">
         <span class="home-focus__number" aria-hidden="true">01</span>
         <h3>Autism and Neurodiversity</h3>
-        <p>Examining technology through a neurodiversity lens and bringing autistic perspectives and lived experiences into its design.</p>
+        <p>This research examines technology through a neurodiversity lens and brings autistic perspectives and lived experiences into its design.</p>
       </article>
       <article role="listitem">
         <span class="home-focus__number" aria-hidden="true">02</span>
         <h3>Moneywork and Financial Technologies</h3>
-        <p>Understanding how people make money work in everyday life, and exploring how financial technologies could better support their needs, practices, and priorities.</p>
+        <p>The goal of the research is understanding how people make money work in everyday life, and exploring how financial technologies could better support their needs, practices, and priorities.</p>
       </article>
       <article role="listitem">
         <span class="home-focus__number" aria-hidden="true">03</span>
         <h3>Participatory Design</h3>
-        <p>Actively involving people in technology design, learning from their everyday practices, and developing more inclusive ways of designing together.</p>
+        <p> To achieve this, we are actively involving people with lived experience in technology design, learning from their existing everyday practices, and involving them in the development of more inclusive ways of designing together.</p>
       </article>
     </div>
   </section>
