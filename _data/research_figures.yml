@@ -26,6 +26,7 @@ nfl_autism_and_moneywork:
   aria_label: "Open the diagram about autism and moneywork at full size"
   transcript_label: "Read this figure as text"
   transcript:
+  How autism shaped experiences of moneywork and the responses and strategies used by participants.
     - term: "Analytical skills"
       description: "using individual talents and interests."
     - term: "Attention patterns"
@@ -39,7 +40,7 @@ nfl_autism_and_moneywork:
     - term: "Cognitive or sensory overload"
       description: "seeking simplicity and using automation."
     - term: "Co-occurring conditions and emotional barriers"
-      description: "using positive framing and, at times, “spending to save”."
+      description: "using positive framing and ‘spending to save’(investing in (mental) health)"
 
 nfl_challenges_and_strategies:
   image: "/assets/images/research/nfl-challenges-and-strategies.svg"
