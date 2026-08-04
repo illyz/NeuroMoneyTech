@@ -83,8 +83,7 @@ These experiences could create difficulties, strengths, or both, depending on th
 
 {% include research-figure.html figure="nfl_autism_and_moneywork" %}
 
-Autism was only one of many factors shaping participants’ experiences of moneywork - and was not always the most significant. Their relationships with money were also influenced by financial confidence, what they learned about money while growing up, and their access to financial education. Their wider financial circumstances mattered too, including whether they grew up with limited money, how much money they had available now, and whether they could access financial support. Co-occurring ADHD, chronic illness, and mental health difficulties also played a role.
-Relationships with partners, family members, friends, and wider support networks were important. Crucially, autistic participants were not simply recipients of support: they also supported others by sharing moneywork, offering advice, helping with financial tasks, and contributing to practices of mutual care. Support often flowed in both directions.
+<strong>Autism was only one of many factors shaping participants’ experiences of moneywork - and was not always the most significant.</strong> Their relationships with money were also influenced by financial confidence, what they learned about money while growing up, and their access to financial education. Their wider financial circumstances mattered too, including whether they grew up with limited money, how much money they had available now, and whether they could access financial support. Co-occurring ADHD, chronic illness, and mental health difficulties also played a role. Relationships with partners, family members, friends, and wider support networks were important, with people sharing moneywork, exchanging advice, and developing practices of mutual support. 
 
 </section>
 
