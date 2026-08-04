@@ -107,7 +107,7 @@ Participants rarely relied on one banking app or one standard approach. They com
 
   <li>
     <strong>Financial tracking, separating money, and adding friction:</strong>
-    Participants used spreadsheets and other tools to keep track of their finances. Many divided money between separate accounts or digital pots—effectively creating “boxes” for bills, savings, and spending. Some also made money deliberately harder to access, for example by keeping money in separate accounts, deleting apps or using accounts with withdrawal restrictions.
+    Participants used spreadsheets and other tools to keep track of their finances. Many divided money between separate accounts or digital pots, effectively creating “boxes” for bills, savings, and spending. Some also made money deliberately harder to access, for example by keeping money in separate accounts, deleting apps or using accounts with withdrawal restrictions.
   </li>
 
   <li>
