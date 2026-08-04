@@ -34,11 +34,11 @@ contents:
 
 ## Understanding everyday financial lives {#study-overview-title}
 
-Money affects almost every part of daily life, but little research has examined how autistic adults experience money management or use financial technology.
+Money affects almost every part of life, and managing it can require considerable time and energy. Autistic adults may be at greater risk of financial hardship because of barriers to employment, underemployment, and limited access to appropriate support ([Autistica](https://www.autistica.org.uk/what-is-autism/challenges-autistic-people-face")). Despite this, there was no existing research on how autistic people manage money or use financial technologies.
 
-This study involved interviews with 20 autistic adults living in the UK. The interviews used [Collaborative Visual Thinking]({{ '/research/collaborative-visual-thinking/' | relative_url }}), a method in which the participant and researcher create a shared visual artefact during their conversation. The visual artefacts helped participants explore income, spending, saving, tools, routines, and the people involved in financial decisions.
+This study involved interviews with 20 autistic adults living in the UK. The interviews used [Collaborative Visual Thinking]({{ '/research/collaborative-visual-thinking/' | relative_url }}), a method in which the participant and researcher create a shared visual artefact during their conversation. The visual artefacts helped the researcher and participant explore the participants' financial lives: sources of income, the places where money lives, outgoings, tools and technologies used, and the people involved in financial practices.
 
-The study considered both challenges and strengths. It also looked closely at the creative ways participants changed tools, combined technologies, and built personal systems that worked for them.
+The study considered both challenges and strengths. It also looked closely at the creative ways participants changed tools, combined technologies, and built personal systems that worked for them. 
 
 {% include takeaway.html title="Main finding" label="Main finding" text="There is no single autistic way of managing money. Participants' needs, preferences, circumstances, and strategies were highly individual." %}
 
