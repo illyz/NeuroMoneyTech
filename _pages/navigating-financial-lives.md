@@ -40,7 +40,7 @@ This study involved interviews with 20 autistic adults living in the UK. The int
 
 The study considered both challenges and strengths. It also looked closely at the creative ways participants changed tools, combined technologies, and built personal systems that worked for them. 
 
-{% include takeaway.html title="Main finding" label="Main finding" text="There is no single best way to manage money. Participants creatively adapted, combined, 'hacked' and repurposed technologies to build personal systems around their individual strengths and preferences." %}
+{% include takeaway.html title="Finding" label="Finding" text="There is no single best way to manage money. Participants creatively adapted, combined, 'hacked' and repurposed technologies to build personal systems around their individual strengths and preferences." %}
 
 </section>
 
@@ -81,7 +81,7 @@ We asked participants how they felt being autistic affected their financial mana
 
 {% include research-figure.html figure="nfl_autism_and_moneywork" %}
 
-<p class="study-page__definition"><strong>Autism was only one of many factors shaping participants’ experiences of moneywork - and was not always the most significant.</strong></p>
+{% include takeaway.html title="Finding" label="Finding" text="Autism was only one of many factors shaping participants’ experiences of moneywork - and was not always the most significant." %}
 
 Participants' relationships with money were also influenced by financial confidence, what they learned about money while growing up, and their access to financial education. Their wider financial circumstances mattered too, including whether they grew up with limited money, how much money they had available now, and whether they could access financial support. Co-occurring ADHD, chronic illness, and mental health difficulties also played a role. Relationships with partners, family members, friends, and wider support networks were important, with people sharing moneywork, exchanging advice, and developing practices of mutual support. 
 
