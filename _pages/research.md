@@ -109,6 +109,8 @@ contents:
 
     <div class="research-actions">
       <a class="research-action research-action--primary" href="{{ site.data.methods.collaborative_visual_thinking.page | relative_url }}">Learn about the method and see more examples</a>
+       <a class="research-action research-action--secondary" href="{{ '/publications/' | relative_url }}">View the publication</a>
+    </div>
     </div>
   </section>
 
