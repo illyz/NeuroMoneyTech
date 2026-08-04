@@ -109,7 +109,7 @@ contents:
 
     <div class="research-actions">
       <a class="research-action research-action--primary" href="{{ site.data.methods.collaborative_visual_thinking.page | relative_url }}">Learn about the method and see more examples</a>
-       <a class="research-action research-action--secondary" href="https://doi.org/10.1093/iwc/iwag026">View the publication</a>
+       <a class="research-action research-action--secondary" target=”_blank” href="https://doi.org/10.1093/iwc/iwag026">View the publication</a>
     </div>
     </div>
   </section>
@@ -125,7 +125,7 @@ contents:
 
     <div class="research-actions">
       <a class="research-action research-action--primary" href="{{ site.data.studies.navigating_financial_lives.page | relative_url }}">Explore the study and findings</a>
-      <a class="research-action research-action--secondary" href="https://doi.org/10.1145/3772318.3791131">View the publication</a>
+      <a class="research-action research-action--secondary" target=”_blank” href="https://doi.org/10.1145/3772318.3791131">View the publication</a>
     </div>
   </section>
 
