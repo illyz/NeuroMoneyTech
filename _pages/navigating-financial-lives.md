@@ -95,9 +95,10 @@ Participants' relationships with money were also influenced by financial confide
 
 Participants rarely relied on one banking app or one standard approach. They combined different tools, accounts, spreadsheets, notebooks, reminders, automation, lists, colour coding, and routines into personal systems.
 
+{% include takeaway.html title="Finding" label="Finding" text="Participants were not simply adapting themselves to financial technology. They were actively adapting technology and their wider financial environment to suit their lives." %}
+
 {% include research-figure.html figure="nfl_challenges_and_strategies" %}
 
-{% include takeaway.html title="Finding" label="Finding" text="Participants were not simply adapting themselves to financial technology. They were actively adapting technology and their wider financial environment to suit their lives." %}
 
 <ul>
   <li>
@@ -121,6 +122,9 @@ Participants rarely relied on one banking app or one standard approach. They com
   </li>
 </ul>
 
+{% include takeaway.html title="Finding" label="Finding" text="Many of the challenges and strategies may be familiar to autistic and non-autistic people alike. What often differed was their intensity, how frequently they occurred, and the extent to which they became barriers." %}
+
+For example, high-contrast colours, frequent changes, and pop-ups on a banking website might be distracting or annoying for some people, but could make the website unusable for someone experiencing sensory overload. Similarly, uncertainty about whether there is enough money to make a purchase might cause brief concern for one person, but create significant anxiety or prevent someone else from completing the task.
 </section>
 
 <section class="study-page__section" id="design-implications" aria-labelledby="design-implications-title" markdown="1">
@@ -129,13 +133,10 @@ Participants rarely relied on one banking app or one standard approach. They com
 
 ## Inclusive design needs to balance competing needs {#design-implications-title}
 
-{% include takeaway.html title="Finding" label="Finding" text="Many of the challenges and strategies may be familiar to autistic and non-autistic people alike. What often differed was their intensity, how frequently they occurred, and the extent to which they became barriers." %}
 
-For example, high-contrast colours, frequent changes, and pop-ups on a banking website might be distracting or annoying for some people, but could make the website unusable for someone experiencing sensory overload. Similarly, uncertainty about whether there is enough money to make a purchase might cause brief concern for one person, but create significant anxiety or prevent someone else from completing the task.
+<strong>Design changes that address these barriers can therefore benefit many people, but may be essential for some.</strong>
 
-<strong>Design changes that reduce these barriers can therefore benefit many people, but may be essential for some.</strong>
-
-The findings do not point to one ideal financial interface. A feature that reduces demands for one person may remove useful information or control for someone else. The same person's needs may also change across tasks or over time. Financial technologies therefore need to actively consider and find a balance across several <strong>Design Tensions"</strong>.
+However, the findings do not point to one ideal financial interface. A feature that reduces demands for one person may remove useful information or control for someone else. The same person's needs may also change across tasks or over time. Financial technologies therefore need to actively consider and find a balance across several <strong>Design Tensions"</strong>.
 
 {% include research-figure.html figure="nfl_design_tensions" %}
 
