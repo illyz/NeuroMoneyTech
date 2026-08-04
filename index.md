@@ -74,8 +74,8 @@ excerpt: "PhD research exploring financial technologies from autistic perspectiv
       <span class="home-kicker">About the researcher</span>
       <h2 id="about-helena-title">Helena Lyhme</h2>
       <p>I am a PhD researcher in Human–Computer Interaction at City St George's, University of London. My research focuses on autistic experiences of moneywork and the design of financial technologies. </p>
-        
-  <p> This PhD is supervised by </p>
+  <br>      
+  <p><strong>This PhD is supervised by</strong></p>
 
   <ul>
       <li><a href="https://www.citystgeorges.ac.uk/about/people/academics/belen-barros-pena" target="_blank" rel="noopener noreferrer">Dr Belén Barros Pena</a></li>
