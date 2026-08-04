@@ -26,7 +26,8 @@ nfl_autism_and_moneywork:
   aria_label: "Open the diagram about autism and moneywork at full size"
   transcript_label: "Read this figure as text"
   transcript:
-  How autism shaped experiences of moneywork and the responses and strategies used by participants.
+    - term: "How Autism shapes experiences of moneywork"
+      description: "Strategies used by Autistic people."
     - term: "Analytical skills"
       description: "using individual talents and interests."
     - term: "Attention patterns"
