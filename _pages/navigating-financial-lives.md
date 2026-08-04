@@ -93,15 +93,28 @@ Participants' relationships with money were also influenced by financial confide
 
 ## Participants made financial tools work for them {#adaptations-title}
 
-Participants rarely relied on one banking app or one standard approach. They combined accounts, spreadsheets, notebooks, reminders, automation, lists, colour coding, and routines into personal systems.
+Participants rarely relied on one banking app or one standard approach. They combined different tools, accounts, spreadsheets, notebooks, reminders, automation, lists, colour coding, and routines into personal systems.
 
 Some approaches reduced demands: automating a payment could remove the need to remember it. Others deliberately added friction: moving money to a harder-to-access account could help prevent unintended spending.
+
 
 {% include research-figure.html figure="nfl_challenges_and_strategies" %}
 
 {% include takeaway.html title="Why this matters" label="Why these adaptations matter" text="Participants were not simply adapting themselves to financial technology. They were actively adapting technology and their wider financial environment to suit their lives." %}
 
-For some participants, building these systems was also enjoyable. Analysing data, organising information, colour coding, or pursuing a savings goal could bring a sense of autistic joy, confidence, and control.
+<ul>
+
+<li><strong>Creating (digital) "Boxes" for Money:</strong> To avoid seeing just one big number in a bank account, many people used digital "pots" or separate accounts to put money into clear categories (like "bills" vs "fun money")</li>
+
+<li><strong>Turning Tasks into Games:</strong> Some used gamification—like savings challenges or checklists to make managing money feel rewarding and fun rather than scary.</li>
+
+<li><strong>Harnessing "Autistic Joy":</strong> Many added joyful elements to their finances by making spreadsheets colourful and 'pretty', by diving deep into the details and creating personalised systems, or researching the best deals and investing in areas of interest.</li>
+
+<li><strong>Adding "Good" Obstacles:</strong> Since digital banking makes it too easy to spend money instantly, some people deliberately make things harder for themselves. They deleted certain apps or used accounts that were harder to withdraw from to help control impulsive spending.</li>
+
+<li><strong>Using Strengths:</strong> Many used their ability to focus on small details and analytical thinking to create highly personalised systems that gave them a sense of control. Others used their communication and people skills to get financial advice from their network.</li>
+
+</ul>
 
 </section>
 
