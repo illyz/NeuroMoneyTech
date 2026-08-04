@@ -77,9 +77,7 @@ It can include budgeting, paying bills, shopping, earmarking money for different
 
 ## Autism shaped moneywork in different ways {#different-experiences-title}
 
-We asked participants how they felt being autistic affected their financial management and wider moneywork. They described analytical skills, attention patterns, a need for control, uncertainty, communication differences, sensory or cognitive overload, and co-occurring conditions.
-
-These experiences could create difficulties, strengths, or both, depending on the person and situation.
+We asked participants how they felt being autistic affected their financial management and wider moneywork. They described having strong analytical skills, attention to detail, a preference for control and difficulties with uncertainty and unpredictability, as well as the impacts of communication differences, sensory or cognitive overload, and co-occurring conditions. These characteristics and experiences could create difficulties, strengths, or both, depending on the person and situation.
 
 {% include research-figure.html figure="nfl_autism_and_moneywork" %}
 
