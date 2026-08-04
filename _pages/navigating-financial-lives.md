@@ -34,13 +34,13 @@ contents:
 
 ## Understanding everyday financial lives {#study-overview-title}
 
-Money affects almost every part of life, and managing it can require considerable time and energy. Autistic adults may be at greater risk of financial hardship because of barriers to employment, underemployment, and limited access to appropriate support ([Autistica](https://www.autistica.org.uk/what-is-autism/challenges-autistic-people-face")). Despite this, there was no existing research on how autistic people manage money or use financial technologies.
+Money affects almost every part of life, and managing it can require considerable time and energy. Autistic adults may be at greater risk of financial hardship because of barriers to employment, underemployment, co-occurring conditions and limited access to appropriate support ([Autistica](https://www.autistica.org.uk/what-is-autism/challenges-autistic-people-face){: target="_blank" rel="noopener noreferrer" }). Despite this, there was no existing research on how autistic people manage money or use financial technologies.
 
 This study involved interviews with 20 autistic adults living in the UK. The interviews used [Collaborative Visual Thinking]({{ '/research/collaborative-visual-thinking/' | relative_url }}), a method in which the participant and researcher create a shared visual artefact during their conversation. The visual artefacts helped the researcher and participant explore the participants' financial lives: sources of income, the places where money lives, outgoings, tools and technologies used, and the people involved in financial practices.
 
 The study considered both challenges and strengths. It also looked closely at the creative ways participants changed tools, combined technologies, and built personal systems that worked for them. 
 
-{% include takeaway.html title="Main finding" label="Main finding" text="There is no single autistic way of managing money. Participants' needs, preferences, circumstances, and strategies were highly individual." %}
+{% include takeaway.html title="Main finding" label="Main finding" text="There is no single best way to manage money. Financial tasks often involve significant cognitive, sensory, and emotional demands, and autistic adults navigate these in different ways. Many creatively adapt, “hack,” and repurpose technologies—combining tools or using them in unexpected ways—to build personal systems around their individual strengths and preferences." %}
 
 </section>
 
