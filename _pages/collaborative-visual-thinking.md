@@ -11,7 +11,7 @@ contents:
   - id: "process"
     label: "How Collaborative Visual Thinking works"
   - id: "participant-experiences"
-    label: "What participants experienced"
+    label: "What participants appreciated about the method"
   - id: "challenges"
     label: "Challenges and tensions"
   - id: "recommendations"
