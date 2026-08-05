@@ -117,11 +117,11 @@ CVT did not work in the same way for everyone. Some participants did not conside
 
 Some participants were unsure what counted as the “right” kind or amount of preparation or visualisation. This highlights a tension between giving people freedom and providing enough guidance to make expectations clear.
 
+{% include takeaway.html title="Key Idea" label="Key Idea" text="CVT may make some parts of an interview easier while making other parts more demanding. It changes where mental effort is needed rather than always reducing it." %}
+
 Talking, thinking, and creating a visual artefact at the same time could also be demanding. Unfamiliar tools, technical problems, screen-based sensory demands, and the effort of deciding what to add sometimes distracted from the conversation. 
 
 The researcher also had to listen, ask questions, and manage the visual artefact at the same time. Researchers should therefore consider carefully whether they can manage all these tasks without affecting the quality of the conversation, or whether they need additional support or a simpler approach.
-
-{% include takeaway.html title="Key Idea" label="Key Idea" text="CVT may make some parts of an interview easier while making other parts more demanding. It changes where mental effort is needed rather than always reducing it." %}
 
 When the visual activity became unhelpful, moving towards a simpler verbal interview worked better. The method should be seen as configurable rather than treated as a fixed set of steps.
 
