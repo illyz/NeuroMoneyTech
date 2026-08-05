@@ -63,28 +63,21 @@ There is no required format and no single correct way to create a visual artefac
 
 ## How Collaborative Visual Thinking works {#process-title}
 
-CVT combines a semi-structured interview with the creation of a shared visual artefact. The method has five main elements:
-
-<ul class="study-page__recommendations">
-   <li><strong><i>Guiding concepts:</i></strong> A small number of questions, topics, or categories provide a clear but flexible structure.</li>
-  <li><strong><i>Preparation:</i></strong> Participants receive the <i><b>guiding concepts</b></i> in advance and have time to gather their thoughts in a way that works for them.</li>
-    <li><strong><i>Visual artefact:</i></strong> A shared representation of the discussion based on the guiding concepts, which can include words, shapes, connections, screenshots, or other materials.</li>
-  <li><strong><i>Collaboration canvas:</i></strong> The physical or digital space used to create the visual artefact.</li>
-  <li><strong><i>Feedback:</i></strong> Participants are explicitly invited to comment on the method so later sessions can be improved.</li>
-</ul>
-
-
-{% include research-figure.html figure="cvt_process" %}
+CVT combines a semi-structured interview with the creation of a shared visual artefact. The process consists of 5 steps: 
 
 <ol>
 
  <li><strong>Introduction to the task:</strong> The researcher introduces the guiding concepts and explains what to expect. The participant can ask questions, discuss access needs, and consider which collaboration canvas would work for them.</li>
  <li><strong>Preparation:</strong> In their own time, the participant reflects on the guiding concepts. They may gather their thoughts, write a list, test a tool, or begin a visual artefact.</li>
- <li><strong>Research session:</strong> The participant and researcher talk while developing a shared visual artefact. The participant may lead the visual work, or the researcher may add notes while asking questions and checking their understanding.</li>
- <li><strong>Collaboration canvas:</strong> The visual artefact can be created using a format that suits the participant, such as paper, sticky notes, a whiteboard, a spreadsheet, a presentation, or a digital canvas.</li>
+ <li><strong>Collaboration canvas:</strong> The participant gets to decide which tools they feel most comfortable with. The visual artefact can be created in any format that suits the participant, such as a digital whiteboard, paper, sticky notes, a whiteboard, a spreadsheet, a presentation, or a different digital canvas.</li> 
+ <li><strong>Research session:</strong> The participant and researcher talk while developing a shared visual artefact on the collaboration canvas. The participant may lead the visual work, or the researcher may add notes while asking questions and checking their understanding.</li>
  <li><strong>Feedback:</strong> The participant is invited to comment on the method during or after the session. Their feedback can be used to improve future sessions.</li>
 
 </ol>
+
+{% include research-figure.html figure="cvt_process" %}
+
+
 
 </section>
 
