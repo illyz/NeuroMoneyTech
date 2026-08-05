@@ -14,7 +14,7 @@ cvt_process:
   caption: "The Collaborative Visual Thinking process, from introducing the task and preparing for the session to creating a shared visual artefact and gathering feedback."
   open_label: "Open full-size image"
   aria_label: "Open the Collaborative Visual Thinking process diagram at full size"
-  transcript_label: "Read the image as text"
+  transcript_label: "The image is described in the text below — continue reading for the full explanation"
   transcript:
     - term: "Introduction to the task"
       description: "The researcher introduces the guiding concepts and explains what to expect. The participant can ask questions, discuss access needs, and consider which collaboration canvas would work for them."
