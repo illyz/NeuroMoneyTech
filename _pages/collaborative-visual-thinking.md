@@ -39,7 +39,7 @@ Research methods are often designed around neurotypical ways of communicating an
 
 Collaborative Visual Thinking was developed during a study about the financial practices of autistic adults. Personal finance can be sensitive, abstract, and highly interconnected. A tightly structured interview could miss this complexity, while a loosely structured interview could feel uncertain or difficult to navigate.
 
-### What is Collaborative Visual Thinking? {#what-is-cvt}
+## What is Collaborative Visual Thinking? {#what-is-cvt}
 
 {% include takeaway.html title="Key Idea" label="Key Idea" text="Collaborative Visual Thinking (CVT) is an interview method that combines a one-to-one interview with the shared creation of a visual artefact by the participant and researcher." %}
 
@@ -51,9 +51,9 @@ The shared artefact gives the participant and researcher a visible point of refe
 
 The illustrations below show some of the forms a visual artefact could take. They are examples only and do not contain participant data.
 
-There is no required format and no single correct way to create a visual artefact. The participant can lead the visual activity, the researcher can add information while the participant speaks, or they can create the artefact together. The level of visual involvement can be adapted to the participant's preferences.
-
 {% include cvt-examples.html %}
+
+There is no required format and no single correct way to create a visual artefact. The participant can lead the visual activity, the researcher can take the lead in visualising and add information while the participant speaks, or they can create the artefact together. The level of visual involvement can be adapted to the participant's preferences.
 
 </section>
 
@@ -63,28 +63,28 @@ There is no required format and no single correct way to create a visual artefac
 
 ## How Collaborative Visual Thinking works {#process-title}
 
-CVT combines a semi-structured interview with the creation of a shared visual artefact. The participant and researcher build or discuss the artefact together using a collaboration canvas, such as a digital whiteboard, paper, sticky notes, a spreadsheet, or another tool that suits the participant.
-
-The method has five main elements:
+CVT combines a semi-structured interview with the creation of a shared visual artefact. The method has five main elements:
 
 <ul class="study-page__recommendations">
-   <li><strong>Guiding concepts:</strong> A small number of questions, topics, or categories provide a clear but flexible structure.</li>
-  <li><strong>Preparation:</strong> Participants receive the <b>guiding concepts</b> in advance and have time to gather their thoughts in a way that works for them.</li>
-    <li><strong>Visual artefact:</strong> A shared representation of the discussion based on the guiding concepts, which can include words, shapes, connections, screenshots, or other materials.</li>
-  <li><strong>Collaboration canvas:</strong> The physical or digital space used to create the visual artefact.</li>
-  <li><strong>Feedback:</strong> Participants are explicitly invited to comment on the method so later sessions can be improved.</li>
+   <li><strong><i>Guiding concepts:</i></strong> A small number of questions, topics, or categories provide a clear but flexible structure.</li>
+  <li><strong><i>Preparation:</i></strong> Participants receive the <i><b>guiding concepts</b></i> in advance and have time to gather their thoughts in a way that works for them.</li>
+    <li><strong><i>Visual artefact:</i></strong> A shared representation of the discussion based on the guiding concepts, which can include words, shapes, connections, screenshots, or other materials.</li>
+  <li><strong><i>Collaboration canvas:</i></strong> The physical or digital space used to create the visual artefact.</li>
+  <li><strong><i>Feedback:</i></strong> Participants are explicitly invited to comment on the method so later sessions can be improved.</li>
 </ul>
+
 
 {% include research-figure.html figure="cvt_process" %}
 
-<ol class="study-page__recommendations">
-  <li><strong>Introduce the task:</strong> Explain what will happen, introduce the guiding concepts and tools, discuss access needs, and give the participant time to decide whether they want to take part.</li>
-  <li><strong>Prepare:</strong> Let the participant reflect in their own time. They might think, write a list, test a digital tool, or begin an artefact before the session.</li>
-  <li><strong>Hold the research session:</strong> Use the guiding concepts to support a conversation while the participant, researcher, or both create the visual artefact.</li>
-  <li><strong>Invite feedback:</strong> Ask what worked, what was difficult, and what could be changed. Feedback can be given during the session or afterwards.</li>
-</ol>
+<ol>
 
-The researcher can take a more active role by adding notes while the participant speaks, or a more supportive role while the participant leads the visual work. The approach can change during the session if the visual activity becomes distracting or tiring.
+ <li><strong>Introduction to the task:</strong> The researcher introduces the guiding concepts and explains what to expect. The participant can ask questions, discuss access needs, and consider which collaboration canvas would work for them.</li>
+ <li><strong>Preparation:</strong> In their own time, the participant reflects on the guiding concepts. They may gather their thoughts, write a list, test a tool, or begin a visual artefact.</li>
+ <li><strong>Research session:</strong> The participant and researcher talk while developing a shared visual artefact. The participant may lead the visual work, or the researcher may add notes while asking questions and checking their understanding.</li>
+ <li><strong>Collaboration canvas:</strong> The visual artefact can be created using a format that suits the participant, such as paper, sticky notes, a whiteboard, a spreadsheet, a presentation, or a digital canvas.</li>
+ <li><strong>Feedback:</strong> The participant is invited to comment on the method during or after the session. Their feedback can be used to improve future sessions.</li>
+
+</ol>
 
 </section>
 
@@ -92,23 +92,21 @@ The researcher can take a more active role by adding notes while the participant
 
 <span class="research-section-label">What we learned</span>
 
-## What participants experienced {#participant-experiences-title}
+## What participants appreciated about the method {#participant-experiences-title}
 
 The method was evaluated through transcripts from the 20 research sessions and an anonymous feedback survey completed by nine participants. Overall, participants often described the study process and visual approach as autism-friendly.
 
-{% include takeaway.html title="Finding" label="Finding" text="Participants valued the combination of preparation, clear structure, time to think, and choice over how they engaged with the visual activity." %}
+{% include takeaway.html title="Finding" label="Finding" text="Participants valued the combination of preparation time, structure, time to think, and choice over how they engaged with the visual activity." %}
 
 ### Clarity and time to think
 
-Participants valued receiving clear information and having time to prepare. They could consider their responses, test the digital whiteboard, or choose a different tool. The 90-minute sessions also gave time to build rapport without feeling rushed.
+Participants valued receiving clear information and having time to prepare. Creating the artefact slowed the conversation down and created more thinking time. 
 
-### A shared point of reference
+### A shared point of reference 
 
-The visual artefact helped some participants focus, organise information, and see relationships between different parts of their experience. It also gave the researcher a visible way to show what they had understood, allowing participants to correct, clarify, or add information.
+The visual artefact helped some participants focus, organise information, and see relationships between different parts of their experience. It also gave the researcher a visible way to show what they had understood, allowing participants to correct, clarify, or add information. 
 
-Creating the artefact slowed the conversation down and created more thinking time. For some participants, seeing everyday patterns represented visually prompted new reflection, learning, or motivation.
-
-### Different ways to take part
+### Different ways to create the visualisation.
 
 Participants did not all engage with the visual activity in the same way. Some led the visualisation themselves, some prepared an artefact before the session, and others preferred to talk while the researcher added information. These choices reflected differences in confidence, sensory preferences, technical familiarity, and desired control over the narrative.
 
@@ -124,13 +122,13 @@ Some participants found the creative activity enjoyable and felt that the resear
 
 ## Visual methods can introduce new demands {#challenges-title}
 
-CVT did not work in the same way for everyone. Some participants were unsure what counted as the “right” kind or amount of preparation. This highlights a tension between giving people freedom and providing enough guidance to make expectations clear.
+CVT did not work in the same way for everyone. Some participants were unsure what counted as the “right” kind or amount of preparation or visualisation. This highlights a tension between giving people freedom and providing enough guidance to make expectations clear.
 
 Talking, thinking, and creating a visual artefact at the same time could also be demanding. Unfamiliar tools, technical problems, screen-based sensory demands, and the effort of deciding what to add sometimes distracted from the conversation. The researcher also had to listen, ask questions, and manage the visual artefact at the same time.
 
 When the visual activity became unhelpful, moving towards a simpler verbal interview worked better.
 
-{% include takeaway.html title="Key Idea" label="Key Idea" text="CVT does not always reduce cognitive load; it can move that effort to different parts of the activity. The method should therefore be configurable rather than treated as a fixed set of steps." %}
+{% include takeaway.html title="Key Idea" label="Key Idea" text="CVT does not always reduce cognitive load. The method should therefore be configurable rather than treated as a fixed set of steps." %}
 
 </section>
 
@@ -138,11 +136,11 @@ When the visual activity became unhelpful, moving towards a simpler verbal inter
 
 <span class="research-section-label">Practical guidance</span>
 
-## Lessons for researchers {#recommendations-title}
+## Recommendations for researchers {#recommendations-title}
 
 <ul class="study-page__recommendations">
   <li><strong>Set clear expectations:</strong> Explain the task, tools, time commitment, and possible ways to take part. Make clear that there is no single correct artefact.</li>
-  <li><strong>Support preparation:</strong> Share guiding concepts in advance, include preparation in compensation, and suggest a maximum preparation time to reduce pressure.</li>
+  <li><strong>Support preparation:</strong> Share guiding concepts in advance, include preparation time in compensation, and suggest a maximum preparation time to reduce pressure.</li>
   <li><strong>Offer different levels of visual engagement:</strong> Let participants lead, ask the researcher to record the conversation, prepare an artefact beforehand, or use little visual material.</li>
   <li><strong>Keep guiding concepts flexible:</strong> Use them as scaffolding rather than a fixed script, and clarify or adapt them when needed.</li>
   <li><strong>Plan for sensory and cognitive pacing:</strong> Offer breaks, simplify the canvas, reduce visual noise, or move to verbal discussion when that works better.</li>
