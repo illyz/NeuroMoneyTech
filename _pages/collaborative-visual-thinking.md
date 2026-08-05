@@ -68,10 +68,10 @@ CVT combines a semi-structured interview with the creation of a shared visual ar
 The method has five main elements:
 
 <ul class="study-page__recommendations">
-  <li><strong>Preparation:</strong> Participants receive information in advance and have time to gather their thoughts in a way that works for them.</li>
-  <li><strong>Guiding concepts:</strong> A small number of questions, topics, or categories provide a clear but flexible structure.</li>
+   <li><strong>Guiding concepts:</strong> A small number of questions, topics, or categories provide a clear but flexible structure.</li>
+  <li><strong>Preparation:</strong> Participants receive the <b>guiding concepts</b> in advance and have time to gather their thoughts in a way that works for them.</li>
+    <li><strong>Visual artefact:</strong> A shared representation of the discussion based on the guiding concepts, which can include words, shapes, connections, screenshots, or other materials.</li>
   <li><strong>Collaboration canvas:</strong> The physical or digital space used to create the visual artefact.</li>
-  <li><strong>Visual artefact:</strong> A shared representation of the discussion, which can include words, shapes, connections, screenshots, or other materials.</li>
   <li><strong>Feedback:</strong> Participants are explicitly invited to comment on the method so later sessions can be improved.</li>
 </ul>
 
