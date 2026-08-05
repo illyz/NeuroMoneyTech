@@ -1197,6 +1197,15 @@ h4 {
   background: rgba(228, 215, 193, 0.28);
 }
 
+.study-page__definition-label {
+  display: block;
+  margin-bottom: 0.25rem;
+  color: var(--nmt-filter-dark);
+  font-size: 0.86rem;
+  font-style: italic;
+  font-weight: 700;
+}
+
 .study-page__moneywork-figure {
   display: block;
   width: 100%;
@@ -1243,11 +1252,13 @@ h4 {
   margin-bottom: 0.25rem;
   color: var(--nmt-filter-dark);
   font-size: 0.86rem;
+  font-style: italic;
 }
 
 .study-page__takeaway p {
   margin: 0;
   font-size: 0.94rem;
+  font-weight: 700;
 }
 
 .study-figure-transcript ul {

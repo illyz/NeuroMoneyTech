@@ -53,7 +53,7 @@ The study considered both challenges and strengths. It also looked closely at th
 <div class="study-page__moneywork-layout">
   <div class="study-page__moneywork-copy" markdown="1">
 
-<p class="study-page__definition"><strong>Moneywork is the work we do to make money work in everyday life.</strong></p>
+<p class="study-page__definition"><span class="study-page__definition-label">Key Idea</span><strong>Moneywork is the work we do to make money work in everyday life.</strong></p>
 
 Like housework, moneywork is ongoing labour that can be easy to overlook. It requires time, attention, decision-making, and sometimes emotional effort.
 
@@ -95,8 +95,6 @@ Participants' relationships with money were also influenced by financial confide
 
 Participants rarely relied on one banking app or one standard approach. They combined different tools, accounts, spreadsheets, notebooks, reminders, automation, lists, colour coding, and routines into personal systems.
 
-{% include takeaway.html title="Finding" label="Finding" text="Participants were not simply adapting themselves to financial technology. They were actively adapting technology and their wider financial environment to suit their lives." %}
-
 {% include research-figure.html figure="nfl_challenges_and_strategies" %}
 
 
@@ -122,9 +120,9 @@ Participants rarely relied on one banking app or one standard approach. They com
   </li>
 </ul>
 
-{% include takeaway.html title="Finding" label="Finding" text="Many of the challenges and strategies may be familiar to autistic and non-autistic people alike. What often differed was their intensity, how frequently they occurred, and the extent to which they became barriers." %}
+{% include takeaway.html title="Finding" label="Finding" text="Many of the challenges and strategies may be familiar to autistic and non-autistic people alike. What often differed was their intensity and the extent to which they became barriers." %}
 
-For example, high-contrast colours, frequent changes, and pop-ups on a banking website might be distracting or annoying for some people, but could make the website unusable for someone experiencing sensory overload. Similarly, uncertainty about whether there is enough money to make a purchase might cause brief concern for one person, but create significant anxiety or prevent someone else from completing the task.
+Design changes that address these challenges can benefit many people, but may be essential for some. For example, high-contrast colours, frequent changes, and pop-ups on a banking website might be distracting or annoying for some people, but could make the website unusable for someone experiencing sensory overload. Similarly, uncertainty about whether there is enough money to make a purchase might cause brief concern for one person, but create significant anxiety or prevent someone else from completing the task.
 </section>
 
 <section class="study-page__section" id="design-implications" aria-labelledby="design-implications-title" markdown="1">
@@ -134,9 +132,9 @@ For example, high-contrast colours, frequent changes, and pop-ups on a banking w
 ## Inclusive design needs to balance competing needs {#design-implications-title}
 
 
-<strong>Design changes that address these barriers can benefit many people, but may be essential for some.</strong>
+The findings do not point to one ideal financial interface. A feature that reduces demands for one person may remove useful information or control for someone else. The same person’s needs may also change across tasks or over time.
 
-However, the findings do not point to one ideal financial interface. A feature that reduces demands for one person may remove useful information or control for someone else. The same person's needs may also change across tasks or over time. Financial technologies therefore need to actively consider and find a balance across several <strong>Design Tensions</strong>.
+{% include takeaway.html title="Key Idea" label="Key Idea" text="Financial technologies need to actively consider and find a balance across several Design Tensions." %}
 
 {% include research-figure.html figure="nfl_design_tensions" %}
 
