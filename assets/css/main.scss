@@ -1217,6 +1217,18 @@ h4 {
   line-height: 1.5;
 }
 
+/* Give SVG research graphics a reliable size inside the image modal. */
+.svg-image-popup {
+  cursor: zoom-in;
+}
+
+.mfp-svg-gallery .mfp-img {
+  width: min(1100px, calc(100vw - 4rem)) !important;
+  height: min(760px, calc(100vh - 4rem)) !important;
+  max-height: none !important;
+  object-fit: contain;
+}
+
 .study-page__takeaway {
   max-width: 800px;
   margin: 1.75rem 0;

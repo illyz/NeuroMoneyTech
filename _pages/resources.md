@@ -4,7 +4,7 @@ permalink: /resources/
 ---
 
 <div class="resources-page">
-  <p class="page-intro">This is a collection of resources I came across during my research and thought might be helpful to visitors to this website.</p>
+  <p class="page-intro">This is a collection of accessible, public-facing resources I came across during my research and thought might be helpful to visitors to this website. Some are written by academics or informed by research, but take the form of books, guides, websites, or other accessible information rather than academic publications. For academic references, see the reference lists in <a href="{{ '/publications/' | relative_url }}">my publications</a>.</p>
   <p class="page-note"><strong>I have not reviewed every resource in full, so including something here does not mean that I endorse everything it says.</strong></p>
 
   <div class="resource-filters" data-resource-filters>

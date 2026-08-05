@@ -1,8 +1,8 @@
 {% comment %}
-Load the compiled stylesheet with a build-specific URL so browsers do not keep
-using an older cached design after a GitHub Pages deployment.
+Load custom assets with a build-specific URL so browsers do not keep using an
+older cached version after a GitHub Pages deployment.
 {% endcomment %}
-{% if site.github.build_revision %}
+{% if jekyll.environment == "production" and site.github.build_revision %}
   {% assign stylesheet_version = site.github.build_revision %}
 {% else %}
   {% assign stylesheet_version = site.time | date: "%s" %}
@@ -11,3 +11,4 @@ using an older cached design after a GitHub Pages deployment.
 <link rel="icon" href="{{ '/assets/images/neuromoneytech-spreadsheet-face-mark.svg' | relative_url }}" type="image/svg+xml">
 <script defer src="{{ '/assets/js/research-navigation.js' | relative_url }}?v={{ stylesheet_version }}"></script>
 <script defer src="{{ '/assets/js/resource-filters.js' | relative_url }}?v={{ stylesheet_version }}"></script>
+<script defer src="{{ '/assets/js/svg-image-modals.js' | relative_url }}?v={{ stylesheet_version }}"></script>
