@@ -8,11 +8,6 @@ study: "autistic_joy"
 
 <p class="page-intro">{{ site.data.studies[page.study].summary }}</p>
 
-## The aim
-
-Research about autism and money often begins with difficulties, risks, and barriers. These issues matter, but they do not represent the whole of autistic experience.
-
-This study considers enjoyable, meaningful, and affirming aspects of autistic money practices. It asks what these experiences could teach us about designing financial tools and systems differently.
 
 ## Current status
 
