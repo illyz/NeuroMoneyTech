@@ -1,0 +1,9 @@
+{% assign method = site.data.methods[include.method] %}
+<div class="research-at-a-glance" aria-label="Method at a glance">
+  {% for fact in method.facts %}
+    <div>
+      <strong>{{ fact.value }}</strong>
+      <span>{{ fact.label }}</span>
+    </div>
+  {% endfor %}
+</div>

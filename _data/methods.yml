@@ -1,4 +1,11 @@
 collaborative_visual_thinking:
   title: "Collaborative Visual Thinking"
   page: "/research/collaborative-visual-thinking/"
-  summary: "This method was developed to explore how autistic adults manage their personal finances. Collaborative Visual Thinking (CVT) is an interview method in which the participant and researcher have a conversation, while also creating a shared visual artefact capturing the discussion, e.g. on a (digital) whiteboard or a piece of paper. The method can support different communication preferences and help explore complex topics, relationships, and experiences."
+  summary: "Collaborative Visual Thinking (CVT) is a flexible interview method for exploring complex and interconnected topics with autistic adults. The participant and researcher talk while creating a shared visual artefact that helps organise ideas, make connections visible, and check their shared understanding."
+  facts:
+    - value: "20"
+      label: "Autistic adults"
+    - value: "One-to-one"
+      label: "Research sessions"
+    - value: "19 online, 1 in person"
+      label: "Session format"

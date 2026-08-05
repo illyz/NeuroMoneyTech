@@ -14,6 +14,18 @@ cvt_process:
   caption: "The Collaborative Visual Thinking process, from introducing the task and preparing for the session to creating a shared visual artefact and gathering feedback."
   open_label: "Open full-size image"
   aria_label: "Open the Collaborative Visual Thinking process diagram at full size"
+  transcript_label: "Read the image as text"
+  transcript:
+    - term: "Introduction to the task"
+      description: "The researcher introduces the guiding concepts and explains what to expect. The participant can ask questions, discuss access needs, and consider which collaboration canvas would work for them."
+    - term: "Preparation"
+      description: "In their own time, the participant reflects on the guiding concepts. They may gather their thoughts, write a list, test a tool, or begin a visual artefact."
+    - term: "Research session"
+      description: "The participant and researcher talk while developing a shared visual artefact. The participant may lead the visual work, or the researcher may add notes while asking questions and checking their understanding."
+    - term: "Collaboration canvas"
+      description: "The visual artefact can be created using a format that suits the participant, such as paper, sticky notes, a whiteboard, a spreadsheet, a presentation, or a digital canvas."
+    - term: "Feedback"
+      description: "The participant is invited to comment on the method during or after the session. Their feedback can be used to improve future sessions."
 
 nfl_autism_and_moneywork:
   image: "/assets/images/research/nfl-autism-and-moneywork.svg"
