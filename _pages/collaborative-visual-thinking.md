@@ -89,8 +89,6 @@ CVT combines a semi-structured interview with the creation of a shared visual ar
 
 The method was evaluated through transcripts from the 20 research sessions and an anonymous feedback survey completed by nine participants. Overall, participants often described the study process and visual approach as autism-friendly.
 
-{% include takeaway.html title="Finding" label="Finding" text="Participants valued the combination of preparation time, structure, time to think, and choice over how they engaged with the visual activity." %}
-
 ### Clarity and time to think
 
 Participants valued receiving clear information and having time to prepare. Creating the artefact slowed the conversation down and created more thinking time. 
@@ -115,13 +113,18 @@ Some participants found the creative activity enjoyable and felt that the resear
 
 ## Visual methods can introduce new demands {#challenges-title}
 
-CVT did not work in the same way for everyone. Some participants were unsure what counted as the “right” kind or amount of preparation or visualisation. This highlights a tension between giving people freedom and providing enough guidance to make expectations clear.
+CVT did not work in the same way for everyone. Some participants did not consider themselves to be very visual people and felt that creating a visual artefact added little to the conversation or their ability to express their experiences.
 
-Talking, thinking, and creating a visual artefact at the same time could also be demanding. Unfamiliar tools, technical problems, screen-based sensory demands, and the effort of deciding what to add sometimes distracted from the conversation. The researcher also had to listen, ask questions, and manage the visual artefact at the same time.
+Some participants were unsure what counted as the “right” kind or amount of preparation or visualisation. This highlights a tension between giving people freedom and providing enough guidance to make expectations clear.
 
-When the visual activity became unhelpful, moving towards a simpler verbal interview worked better.
+Talking, thinking, and creating a visual artefact at the same time could also be demanding. Unfamiliar tools, technical problems, screen-based sensory demands, and the effort of deciding what to add sometimes distracted from the conversation. 
 
-{% include takeaway.html title="Key Idea" label="Key Idea" text="CVT does not always reduce cognitive load. The method should therefore be configurable rather than treated as a fixed set of steps." %}
+The researcher also had to listen, ask questions, and manage the visual artefact at the same time. Researchers should therefore consider carefully whether they can manage all these tasks without affecting the quality of the conversation, or whether they need additional support or a simpler approach.
+
+{% include takeaway.html title="Key Idea" label="Key Idea" text="CVT may make some parts of an interview easier while making other parts more demanding. It changes where mental effort is needed rather than always reducing it." %}
+
+When the visual activity became unhelpful, moving towards a simpler verbal interview worked better. The method should be seen as configurable rather than treated as a fixed set of steps.
+
 
 </section>
 
