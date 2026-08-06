@@ -17,7 +17,7 @@ cvt_process:
   transcript_label: "Read this figure as text"
   transcript:
     - term: "The image is described in the text above"
-      description: "The diagram is a visual representation of the 5 steps introduced above (1. Introduction to the task, 2. Preparation, 3. Collaboration canvas, 4.Research session, 5. Feedback)
+      description: "The diagram is a visual representation of the 5 steps introduced above (1. Introduction to the task, 2. Preparation, 3. Collaboration canvas, 4.Research session, 5. Feedback)"
     -
 nfl_autism_and_moneywork:
   image: "/assets/images/research/nfl-autism-and-moneywork.svg"
